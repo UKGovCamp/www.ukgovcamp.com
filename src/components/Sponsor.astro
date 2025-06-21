@@ -1,0 +1,9 @@
+---
+import { Image } from "astro:assets";
+const { image, name, title, link } = Astro.props;
+---
+
+<div class="sponsor">
+    <a href={link}> <Image src={image} alt={name} title={name} /></a>
+    {title && <span class="sponsor-title">{title}</span>}
+</div>

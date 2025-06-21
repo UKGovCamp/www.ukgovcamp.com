@@ -1,0 +1,141 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Sponsor from "../components/Sponsor.astro";
+import Image21stCenturyMindset from "../images/21stCenturyMindset.png";
+import ImageDxw from "../images/dxw.png";
+import ImageFaculty from "../images/Faculty.png";
+import ImageGDS from "../images/GDS.png";
+import ImageHippo from "../images/hippo.png";
+import ImageMadeTech from "../images/MadeTech.png";
+import ImageMarvell from "../images/marvell.png";
+import ImageNEC from "../images/NECDigitalStudio.png";
+import ImageNetcompany from "../images/Netcompany.png";
+import ImageNexer from "../images/nexer.png";
+import ImageOxfordInsights from "../images/oxfordinsights.png";
+import ImagePilotWorks from "../images/PilotWorks.png";
+import ImagePublicDigital from "../images/PublicDigital.png";
+import ImageRegisterDynamics from "../images/registerdynamics.png";
+import ImageScottLogic from "../images/ScottLogic.png";
+import ImageSlack from "../images/slack.png";
+import ImageTpxImpact from "../images/tpximpact.png";
+---
+
+<BaseLayout title="Our Sponsors">
+    <h1>Thank you to our 2025 sponsors!</h1>
+    <p>
+        Interested in sponsoring the event? Please let us know via the <a
+            href="/become-a-sponsor">becoming a sponsor</a
+        > page or by contacting us at sponsors@ukgovcamp.com.
+    </p>
+
+    <h2>Platinum Sponsors</h2>
+    <div class="sponsors">
+        <Sponsor
+            image={ImageNetcompany}
+            name="Netcompany"
+            title="Lunch"
+            link="https://netcompany.com/"
+        />
+        <Sponsor
+            image={ImageOxfordInsights}
+            name="Oxford Insights"
+            title="Crèche"
+            link="https://www.oxfordinsights.com/"
+        />
+        <Sponsor
+            image={ImageTpxImpact}
+            name="TPXimpact"
+            title="Coffee & Tea"
+            link="https://www.tpximpact.com/"
+        />
+        <Sponsor
+            image={ImageMadeTech}
+            name="Made Tech"
+            title="Bursaries"
+            link="https://www.madetech.com/"
+        />
+        <Sponsor
+            image={ImageDxw}
+            name="dxw"
+            title="Accessibility"
+            link="https://www.dxw.com/"
+        />
+        <Sponsor
+            image={ImageScottLogic}
+            name="Scott Logic"
+            title="Carbon Offsetting"
+            link="https://www.scottlogic.com/"
+        />
+    </div>
+
+    <h2>Gold sponsors</h2>
+    <div class="sponsors">
+        <Sponsor
+            image={ImageFaculty}
+            name="Faculty"
+            link="https://faculty.ai/"
+        />
+        <Sponsor
+            image={ImagePublicDigital}
+            name="Public Digital"
+            link="https://public.digital/"
+        />
+        <Sponsor
+            image={ImageNEC}
+            name="NEC Digital Studio"
+            link="https://necsws.com/digitalstudio/"
+        />
+        <Sponsor
+            image={ImageGDS}
+            name="Government Digital Service"
+            link="https://www.gov.uk/government/organisations/government-digital-service"
+        />
+        <Sponsor
+            image={ImagePilotWorks}
+            name="Pilot Works"
+            link="https://www.gov.uk/government/organisations/government-digital-service"
+        />
+    </div>
+
+    <h2>Silver sponsors</h2>
+    <div class="sponsors">
+        <Sponsor
+            image={ImageNexer}
+            name="Nexer"
+            link="https://nexergroup.com/"
+        />
+        <Sponsor
+            image={ImageHippo}
+            name="Hippo"
+            link="https://hippodigital.co.uk/"
+        />
+        <Sponsor
+            image={ImageSlack}
+            name="Slack"
+            link="https://slack.com/intl/en-gb/"
+        />
+    </div>
+
+    <h2>Bronze sponsors</h2>
+    <div class="sponsors">
+        <Sponsor
+            image={Image21stCenturyMindset}
+            name="21st Century Mindset"
+            link="https://21cmindset.com/"
+        />
+        <Sponsor
+            image={ImageMarvell}
+            name="Marvell Consulting"
+            link="https://marvell-consulting.com/"
+        />
+        <Sponsor
+            image={ImageRegisterDynamics}
+            name="Register Dynamics"
+            link="https://www.register-dynamics.co.uk/"
+        />
+    </div>
+
+    <h2>Other awesome supports</h2>
+    <p>Finance and Seed Fund Management &mdash; James Cattell</p>
+    <p>Finance Administration &mdash; Vanessa Montgomery Williams</p>
+</BaseLayout>

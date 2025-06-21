@@ -6,7 +6,8 @@ import Footer from "../components/Footer.astro";
 
 import "../globals.css";
 
-const { title } = Astro.props;
+const { frontmatter } = Astro.props;
+const { title } = { ...Astro.props, ...frontmatter };
 ---
 
 <html lang="en">
