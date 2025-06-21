@@ -1,0 +1,24 @@
+---
+import BaseHead from "../components/BaseHead.astro";
+import Logo from "../components/Logo.astro";
+import Nav from "../components/Nav.astro";
+import Footer from "../components/Footer.astro";
+
+import "../globals.css";
+
+const { title } = Astro.props;
+---
+
+<html lang="en">
+    <head>
+        <BaseHead title={title} />
+    </head>
+    <body>
+        <header class="width-container">
+            <Logo />
+            <Nav />
+        </header>
+        <main class="width-container"><slot /></main>
+        <Footer />
+    </body>
+</html>

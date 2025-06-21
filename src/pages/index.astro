@@ -1,16 +1,33 @@
 ---
-
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<BaseLayout title="UK Gov Camp">
+    <div class="accent">
+        <p>
+            The annual UKGovCamp conference was delivered on 18 January 2025 at
+            Ministry of Justice, London.
+        </p>
+        <p>Now we need your help with "what next" for UKGovCamp.</p>
+    </div>
+    <h2>About</h2>
+    <p>
+        UKGovCamp is a free, annual unconference for people who want to make the
+        public sector better.
+    </p>
+    <h2>Past events</h2>
+    <p>
+        The agenda is set by the people who turn up, using the well establised
+        unconference format.
+    </p>
+    <h2>Sponsors</h2>
+    <p>
+        Sponsors help us make accessible, memorable events. Leftover funds go
+        into our grant fund.
+    </p>
+    <div class="accent">
+        <h2>Latest news</h2>
+        <p>Placeholder</p>
+        <p>2025-06-21 by Joe Roberts</p>
+    </div>
+</BaseLayout>
