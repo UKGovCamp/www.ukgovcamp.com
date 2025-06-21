@@ -1,0 +1,13 @@
+{
+  "name": "www-ukgovcamp-com",
+  "compatibility_date": "2025-06-21",
+
+  "routes": [
+    {
+      "pattern": "new.ukgovcamp.com",
+      "custom_domain": true
+    }
+  ],
+
+  "assets": { "directory": "./dist" }
+}
