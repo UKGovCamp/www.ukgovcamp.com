@@ -3,6 +3,7 @@ title: "#CommsCampNorth"
 date: 2017-01-15
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Dan Slee

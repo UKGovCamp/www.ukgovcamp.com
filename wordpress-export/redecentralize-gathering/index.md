@@ -3,6 +3,7 @@ title: "Redecentralize gathering"
 date: 2018-12-12
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Description of the event:** "Decentralisation is charging ahead, but where to? How do we ensure a decentralised web brings about greater autonomy, privacy, choice? What's the priority? Which apps work now? What's in the way for mainstream adoption?

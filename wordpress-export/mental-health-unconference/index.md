@@ -3,6 +3,7 @@ title: "Mental Health Unconference"
 date: 2018-09-13
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Description of the event:** First Environment Agency Mental Health Unconference following on from a related Civil Service conference. We’ll have space for 100 to share, listen, learn, try new things to help build resilience, make pledges, share resilience ideas

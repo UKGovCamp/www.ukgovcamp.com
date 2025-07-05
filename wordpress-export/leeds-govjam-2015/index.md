@@ -3,6 +3,7 @@ title: "Leeds GovJam 2015"
 date: 2015-06-17
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Matt Edgar

@@ -3,6 +3,7 @@ title: "CommsCamp"
 date: 2012-07-29
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Ann Kempster

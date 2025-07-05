@@ -3,6 +3,7 @@ title: "Bluelightcamp"
 date: 2012-03-07
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Sasha Taylor/JP Coxon

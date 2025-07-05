@@ -3,6 +3,7 @@ title: "Making Govcamps more inclusive"
 date: 2022-10-27
 categories: 
   - "govcamps"
+author: "vee"
 ---
 
 This year we’ve asked questions such as _'Is there anything else that you would like to share that will help us make you feel included as part of the events?'_ and _'Is there a way we can help you attend this event more easily?'_ to give space for our community to tell us its needs.

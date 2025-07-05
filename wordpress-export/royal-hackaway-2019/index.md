@@ -4,6 +4,7 @@ date: 2019-01-07
 categories:
   - "support-events"
 coverImage: "Royal-hackaway.png"
+author: "jacattell"
 ---
 
 [![Royal hackaway](images/Royal-hackaway-300x300.png)](https://www.ukgovcamp.com/wp-content/uploads/2019/01/Royal-hackaway.png) Royal hackaway

@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "NSS-Camp.png"
+author: "jacattell"
 ---
 
 Pauline Roche successfully applied to the UKGovCamp grant fund for help with their 2025 event.

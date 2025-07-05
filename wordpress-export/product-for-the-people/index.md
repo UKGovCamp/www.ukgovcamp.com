@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "product-for-the-people-1.png"
+author: "jacattell"
 ---
 
 Matt Jukes successfully applied to the UKGovCamp grant fund for help with their 2025 event.

@@ -4,6 +4,7 @@ date: 2019-03-04
 categories:
   - "support-events"
 coverImage: "ukhealthcamp.png"
+author: "jacattell"
 ---
 
 [![UK Health Camp logo](images/ukhealthcamp.png)](https://www.ukgovcamp.com/wp-content/uploads/2017/07/ukhealthcamp.png) UK Health Camp logo

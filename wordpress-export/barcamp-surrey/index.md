@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "BarCamp-Surrey.png"
+author: "jacattell"
 ---
 
 Laura Czajkowski successfully applied to the UKGovCamp grant fund for help with their Surrey event on Saturday 2 August 2025.

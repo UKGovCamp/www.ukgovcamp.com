@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "661x464-ukgovcamp-logo.png"
+author: "jacattell"
 ---
 
 Opeyemi Medeyinlo has successfully applied to the UKGovCamp grant fund for their event.

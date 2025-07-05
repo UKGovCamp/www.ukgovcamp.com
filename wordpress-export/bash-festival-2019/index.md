@@ -4,6 +4,7 @@ date: 2019-02-11
 categories:
   - "support-events"
 coverImage: "Bash-Festival-logo.png"
+author: "jacattell"
 ---
 
 [![Bash Festival logo](images/Bash-Festival-logo-300x300.png)](https://www.ukgovcamp.com/wp-content/uploads/2019/02/Bash-Festival-logo.png) Bash Festival logo

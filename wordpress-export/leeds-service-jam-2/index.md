@@ -4,6 +4,7 @@ date: 2018-02-05
 categories: 
   - "sponsorship"
 coverImage: "leeds-service-jam.png"
+author: "jacattell"
 ---
 
 **Description of the proposed Event:** Leeds Service Jam is a part of the Global Service Jam, an annual non-profit learning, innovation and collaboration event that connects thousands of people around the world. This year, Leeds Service Jam will take place from the evening of Friday 9 March through to the afternoon of Sunday 11 March.

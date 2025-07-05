@@ -3,6 +3,7 @@ title: "hyperwm"
 date: 2012-04-30
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Dan Slee

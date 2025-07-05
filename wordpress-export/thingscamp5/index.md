@@ -4,6 +4,7 @@ date: 2018-05-29
 categories: 
   - "support-events"
 coverImage: "things-camp.jpg"
+author: "jacattell"
 ---
 
 **Description of the event:** We’re continuing a series of ThingsCamps around the country, following on from successful events in Plymouth, Greenwich, Bristol and London. Each takes a local flavour according to the priorities of people and businesses in the area, with topics suggested and led by attendees.

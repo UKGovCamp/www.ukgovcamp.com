@@ -6,6 +6,7 @@ categories:
 tags: 
   - "notwestminster"
 coverImage: "Notwestminster2025.jpeg"
+author: "jacattell"
 ---
 
 Notwestminster successfully applied to the UKGovCamp grant fund for help with their 2025 event in Huddersfield on Saturday 15 February 2025.

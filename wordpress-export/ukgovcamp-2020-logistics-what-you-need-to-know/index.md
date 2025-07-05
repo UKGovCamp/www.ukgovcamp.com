@@ -4,6 +4,7 @@ date: 2020-01-13
 categories: 
   - "ukgovcamp"
 coverImage: "Screen-Shot-2020-01-13-at-10.53.33.png"
+author: "webmaster"
 ---
 
 TL;DR: **Hashtag** \= #ukgc20. **Venue** \= Ministry of Justice, 102 Petty France, London SW1H 9AJ. **Timings** \= Doors open 0900, pitching 1000, doors close 1700

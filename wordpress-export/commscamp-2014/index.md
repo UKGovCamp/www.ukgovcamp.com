@@ -3,6 +3,7 @@ title: "commscamp 2014"
 date: 2014-03-21
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Dan Slee

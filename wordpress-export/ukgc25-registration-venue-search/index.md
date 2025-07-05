@@ -6,6 +6,7 @@ categories:
 tags: 
   - "ukgc25"
 coverImage: "2015-logo.png"
+author: "jacattell"
 ---
 
 Hello I’m [James](https://www.cattell.com/), lead organiser for UKGovCamp 2025 (ukgc25), an annual event for people in and around the public sector. 

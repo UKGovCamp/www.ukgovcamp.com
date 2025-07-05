@@ -8,6 +8,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "https-cdn.evbuc_.com-images-66467591-296003868715-1-original.20190724-221420.jpeg"
+author: "webmaster"
 ---
 
 Hack the Police have successfully applied to the UKGovCamp grant fund and will receive £300. Below is their application:

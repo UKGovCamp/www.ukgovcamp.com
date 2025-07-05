@@ -4,6 +4,7 @@ date: 2019-04-11
 categories:
   - "support-events"
 coverImage: "gocampcymru-1.png"
+author: "jacattell"
 ---
 
 [![GovCamp Cymru](images/gocampcymru-1.png)](https://www.ukgovcamp.com/wp-content/uploads/2017/07/gocampcymru-1.png) GovCamp Cymru

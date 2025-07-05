@@ -7,6 +7,7 @@ tags:
   - "accounts"
   - "ukgc25"
 coverImage: "661x464-ukgovcamp-logo.png"
+author: "jacattell"
 ---
 
 The annual UK Gov Camp 2025 (ukgc25) unconference on Saturday 18 January 2025 was a great success. Thank you to everyone who supported us and/or came to the event.

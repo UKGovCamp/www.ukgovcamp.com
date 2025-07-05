@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "UKindTherapy.png"
+author: "jacattell"
 ---
 
 Amanda Haigh has successfully applied to the UKGovCamp grant fund for their event.

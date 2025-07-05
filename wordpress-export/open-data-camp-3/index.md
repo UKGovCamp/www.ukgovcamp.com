@@ -3,6 +3,7 @@ title: "Open Data Camp 3"
 date: 2016-02-08
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** James Cattell on behalf of Mark Braggins

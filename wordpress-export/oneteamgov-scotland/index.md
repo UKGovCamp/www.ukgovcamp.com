@@ -4,6 +4,7 @@ date: 2017-10-18
 categories: 
   - "support-events"
 coverImage: "Screen-Shot-2017-10-18-at-14.07.02.png"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

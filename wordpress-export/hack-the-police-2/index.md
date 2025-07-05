@@ -4,6 +4,7 @@ date: 2017-11-30
 categories: 
   - "support-events"
 coverImage: "hackthepolice.png"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

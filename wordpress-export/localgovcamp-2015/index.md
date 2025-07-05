@@ -3,6 +3,7 @@ title: "LocalGovCamp 2015"
 date: 2015-02-28
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Sarah Lay

@@ -7,6 +7,7 @@ tags:
   - "grants"
   - "supported-events"
 coverImage: "Screen-Shot-2017-12-22-at-14.01.08.png"
+author: "jacattell"
 ---
 
 VCSS Camp have successfully applied for a grant to support their event. Here are details of the application:

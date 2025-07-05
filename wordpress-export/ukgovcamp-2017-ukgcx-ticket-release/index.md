@@ -8,6 +8,7 @@ tags:
   - "gender-diversity"
   - "ukgovcamp2017"
 coverImage: "gender_div_lrg-e1479650286840.png"
+author: "webmaster"
 ---
 
 UKGovcamp is 10yrs old and back for 2017 at our old favourite venue - the [National Audit Office](http://www.nao.org.uk) It's a one-day Saturday event, and space is going to be tight.

@@ -3,6 +3,7 @@ title: "LocalGovCamp"
 date: 2013-05-08
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Dave Briggs (@davebriggs)

@@ -3,6 +3,7 @@ title: "Library Camp"
 date: 2012-03-12
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Richard Veevers, Carolin Schneider

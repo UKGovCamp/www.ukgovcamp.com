@@ -3,6 +3,7 @@ title: "DeliverCon 2024"
 date: 2024-03-18
 categories:
   - "support-events"
+author: "jacattell"
 ---
 
 [![The United Government Camp logo](images/govcamp-transparent.png)](https://www.ukgovcamp.com/wp-content/uploads/2015/10/govcamp-transparent.png) UKGovCamp logo

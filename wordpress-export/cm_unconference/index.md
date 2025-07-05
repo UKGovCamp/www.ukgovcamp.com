@@ -7,6 +7,7 @@ tags:
   - "community-managers-unconference"
   - "supported-events"
 coverImage: "govcamplogo.png"
+author: "webmaster"
 ---
 
 James Arthur Cattell has successfully applied to the UKGovcamp grant fund and will receive £500. Below is their application:

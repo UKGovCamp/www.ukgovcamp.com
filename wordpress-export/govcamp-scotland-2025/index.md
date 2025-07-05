@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "AI-generated-Govcamp-Scotland-logo-1.jpeg"
+author: "jacattell"
 ---
 
 Ross Ferguson successfully applied to the UKGovCamp grant fund for their 19 June 2025 event in Edinburgh.

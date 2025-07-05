@@ -3,6 +3,7 @@ title: "Intranetcamp"
 date: 2017-12-22
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

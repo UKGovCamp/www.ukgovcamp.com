@@ -8,6 +8,7 @@ tags:
   - "ticket-lottery"
   - "ukgovcamp-2019"
 coverImage: "Vc3v_Vgh_400x400.jpg"
+author: "webmaster"
 ---
 
 Hello folks,

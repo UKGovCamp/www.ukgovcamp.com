@@ -7,6 +7,7 @@ tags:
   - "grants"
   - "supported-events"
 coverImage: "community-pros-of-london.png"
+author: "jacattell"
 ---
 
 Community Pros of London have successfully applied for a grant to support their event. Here are details of the application:

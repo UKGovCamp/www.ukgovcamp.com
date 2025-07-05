@@ -3,6 +3,7 @@ title: "Digital Health Conference and Hack 2012"
 date: 2012-03-12
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Claire Jones

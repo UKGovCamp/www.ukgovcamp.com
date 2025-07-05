@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "connected-with-data-unconference.png"
+author: "jacattell"
 ---
 
 Gavin Freeguard successfully applied to the UKGovCamp grant fund for help with their London event on Thursday 20 March 2025.

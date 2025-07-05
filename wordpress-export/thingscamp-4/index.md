@@ -4,6 +4,7 @@ date: 2017-12-01
 categories: 
   - "support-events"
 coverImage: "things-camp.jpg"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

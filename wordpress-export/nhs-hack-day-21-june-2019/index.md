@@ -4,6 +4,7 @@ date: 2019-03-04
 categories:
   - "support-events"
 coverImage: "nhs-hack-day.jpg"
+author: "jacattell"
 ---
 
 [![NHS Hack Day](images/nhs-hack-day.jpg)](https://www.ukgovcamp.com/wp-content/uploads/2019/03/nhs-hack-day.jpg) NHS Hack Day

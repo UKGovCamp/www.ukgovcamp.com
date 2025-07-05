@@ -4,6 +4,7 @@ date: 2018-06-12
 categories: 
   - "support-events"
 coverImage: "ukhealthcamp.png"
+author: "jacattell"
 ---
 
 **Description of the event:** UK Health Camp is the free ‘unconference’ for everyone interested in digital, design, technology and data for health and care. After two relatively successful events in London, we've decided to bring it to the North, and we're running the next event on Saturday 8th September at The Federation in Manchester.

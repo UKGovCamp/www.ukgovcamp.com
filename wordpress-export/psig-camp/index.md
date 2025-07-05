@@ -4,6 +4,7 @@ date: 2019-02-11
 categories:
   - "support-events"
 coverImage: "PSIG-Camp.jpg"
+author: "jacattell"
 ---
 
 [![Temporary PSIG Camp logo](images/PSIG-Camp-300x300.jpg)](https://www.ukgovcamp.com/wp-content/uploads/2019/02/PSIG-Camp.jpg) Temporary PSIG Camp logo

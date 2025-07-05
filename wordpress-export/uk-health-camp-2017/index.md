@@ -4,6 +4,7 @@ date: 2017-07-29
 categories: 
   - "support-events"
 coverImage: "ukhealthcamp.png"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

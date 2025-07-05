@@ -4,6 +4,7 @@ date: 2018-01-16
 categories: 
   - "ukgovcamp"
 coverImage: "2018-Sponsor-Presentation-1.jpg"
+author: "webmaster"
 ---
 
 My, my, how time does indeed fly. In the blink of an eye we find ourselves with only days to go till [#ukgc18](https://twitter.com/hashtag/ukgc18?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Ehashtag) kicks off on Saturday the 20th of January, hosted by the kind folks at the [Ministry of Justice](https://www.google.co.uk/maps/place/Ministry+of+Justice/@51.4997614,-0.1370881,17z/data=!3m1!4b1!4m5!3m4!1s0x487604dbe92f5af3:0x43d424d396c6fa7!8m2!3d51.4997581!4d-0.1348994). The machine that is UKGovcamp is revving up and raring to go!

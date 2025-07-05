@@ -3,6 +3,7 @@ title: "Open Data Camp 4"
 date: 2017-01-15
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Mark Braggins

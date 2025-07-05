@@ -3,6 +3,7 @@ title: "Fundy McFundface or Sorting out Govcamp Banking &amp; Grants Administrat
 date: 2017-12-18
 categories: 
   - "sponsorship"
+author: "vee"
 ---
 
 **TL:DR There’s going to be a meet up of unconference people to discuss this topic.**

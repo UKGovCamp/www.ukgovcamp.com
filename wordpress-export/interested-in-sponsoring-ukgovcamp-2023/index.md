@@ -3,6 +3,7 @@ title: "Interested in sponsoring UKGovcamp 2023?"
 date: 2022-03-30
 categories: 
   - "sponsorship"
+author: "vee"
 ---
 
 ![](images/47381075201_79ca7ab833_w.jpg)

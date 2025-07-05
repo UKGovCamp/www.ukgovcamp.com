@@ -7,6 +7,7 @@ tags:
   - "ukgc25"
   - "ukgovcamp"
 coverImage: "govcamplogo.png"
+author: "jacattell"
 ---
 
 UKGovCamp is an annual unconference for people who want to make the public sector better. 

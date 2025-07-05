@@ -4,6 +4,7 @@ date: 2018-08-17
 categories: 
   - "support-events"
 coverImage: "stake-camp.jpg"
+author: "jacattell"
 ---
 
 **Description of the event:** The format of the event is open space (unconference).  The purpose of the event is to bring together a diverse cross section of the consultation & engagement community (from providers to the public and private sector).  The target audience is anybody with an interest in the subject, including lobbyists, but particularly those with a ‘duty to consult’ (i.e. public sector).  However, it may also appeal to professionals who are involve in stakeholder management in an ‘internal’ sense.

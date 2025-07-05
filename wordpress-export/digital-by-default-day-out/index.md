@@ -3,6 +3,7 @@ title: "Digital by Default Day Out"
 date: 2013-05-21
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Matt Jukes (@jukesie)

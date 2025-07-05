@@ -3,6 +3,7 @@ title: "scotcommscamp"
 date: 2013-05-08
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Lesley Thomson ([@lelil](https://twitter.com/lelil))

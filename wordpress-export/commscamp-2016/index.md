@@ -3,6 +3,7 @@ title: "CommsCamp 2016"
 date: 2016-06-22
 categories:
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** [Dan Slee](https://twitter.com/danslee)

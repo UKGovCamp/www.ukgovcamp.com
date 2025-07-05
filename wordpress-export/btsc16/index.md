@@ -3,6 +3,7 @@ title: "Beyond the smart city 2016 (BTSC16)"
 date: 2016-03-06
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Lucy Knight

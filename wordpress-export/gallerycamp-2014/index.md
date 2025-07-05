@@ -3,6 +3,7 @@ title: "Gallerycamp 2014"
 date: 2014-07-29
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Tim Wilson

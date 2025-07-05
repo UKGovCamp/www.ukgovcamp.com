@@ -4,6 +4,7 @@ date: 2018-07-20
 categories:
   - "ukgovcamp"
 coverImage: "govcamp-transparent.png"
+author: "jacattell"
 ---
 
  

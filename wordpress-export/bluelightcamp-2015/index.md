@@ -3,6 +3,7 @@ title: "BlueLightCamp 2015"
 date: 2015-01-30
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Sasha Taylor

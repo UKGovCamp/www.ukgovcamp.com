@@ -4,6 +4,7 @@ date: 2020-02-05
 categories: 
   - "support-events"
 coverImage: "Unknown.png"
+author: "webmaster"
 ---
 
 UKHealthcamp 2020 have successfully applied to the UKGovCamp grant fund and will receive £500. Below is their application:

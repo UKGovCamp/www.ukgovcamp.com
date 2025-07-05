@@ -3,6 +3,7 @@ title: "CityCamp Coventry 2.0"
 date: 2013-12-23
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Sasha Taylor

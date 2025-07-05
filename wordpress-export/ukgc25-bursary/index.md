@@ -4,6 +4,7 @@ date: 2024-12-19
 categories: 
   - "ukgovcamp"
 coverImage: "govcamp-transparent.png"
+author: "jacattell"
 ---
 
 A bursary is a non-repayable monetary award to help you attend UKGovCamp 2025.

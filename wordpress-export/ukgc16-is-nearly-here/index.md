@@ -4,6 +4,7 @@ date: 2016-01-17
 categories: 
   - "ukgovcamp"
 coverImage: "govcamp-transparent.png"
+author: "webmaster"
 ---
 
 My, my. How time does indeed fly. In the blink of an eye we find ourselves with less than a week to go till #ukgc16 kicks off on Saturday the 23rd of January, hosted by the kind folks at the [National Audit Office](https://www.google.co.uk/maps/place/National+Audit+Office/@51.4916783,-0.1485413,15z/data=!4m2!3m1!1s0x0:0x5d8dbc0441be8df3).

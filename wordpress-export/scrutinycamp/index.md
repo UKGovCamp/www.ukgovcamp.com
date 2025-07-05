@@ -3,6 +3,7 @@ title: "Scrutinycamp"
 date: 2013-05-09
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Ed Hammond (ed.hammond@cfps.org.uk)

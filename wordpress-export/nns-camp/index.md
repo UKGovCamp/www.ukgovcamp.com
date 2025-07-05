@@ -4,6 +4,7 @@ date: 2024-01-24
 categories:
   - "support-events"
 coverImage: "ukgovcamp.png"
+author: "jacattell"
 ---
 
 [![The United Government Camp logo](images/govcamp-transparent.png)](https://www.ukgovcamp.com/wp-content/uploads/2015/10/govcamp-transparent.png) UKGovCamp logo

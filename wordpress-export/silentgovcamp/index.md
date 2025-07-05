@@ -4,6 +4,7 @@ date: 2017-04-23
 categories: 
   - "support-events"
 coverImage: "govcamp-transparent.png"
+author: "jacattell"
 ---
 
 Below is the exact text of a recently approved grant application.

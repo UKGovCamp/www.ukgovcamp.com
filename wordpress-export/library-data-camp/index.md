@@ -4,6 +4,7 @@ date: 2019-02-11
 categories:
   - "support-events"
 coverImage: "Library-Data-Camp.png"
+author: "jacattell"
 ---
 
 [![Library Data Camp logo](images/Library-Data-Camp-300x300.png)](https://www.ukgovcamp.com/wp-content/uploads/2019/02/Library-Data-Camp.png) Library Data Camp logo

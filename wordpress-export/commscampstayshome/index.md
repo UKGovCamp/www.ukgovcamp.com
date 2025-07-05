@@ -7,6 +7,7 @@ tags:
   - "commscamp"
   - "ukgovcamp-grants"
 coverImage: "cropped-comms-wordpress-header-1260-x-240-e1597071703489.jpg"
+author: "webmaster"
 ---
 
 Commscamp Stays Home 2020 have successfully applied to the UKGovCamp grant fund and will receive £250. Below is their application:

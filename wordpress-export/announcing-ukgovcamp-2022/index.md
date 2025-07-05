@@ -3,6 +3,7 @@ title: "Announcing UKGovcamp 2022!"
 date: 2021-11-13
 categories: 
   - "ukgovcamp"
+author: "webmaster"
 ---
 
 [![](images/49421388277_b9404d6703_k-1000x500.jpg)](https://www.ukgovcamp.com/wp-content/uploads/2020/11/49421388277_b9404d6703_k.jpg)

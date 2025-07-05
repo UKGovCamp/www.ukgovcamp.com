@@ -7,6 +7,7 @@ tags:
   - "a11y"
   - "accessibility"
   - "ukgcxl"
+author: "imran"
 ---
 
 In keeping with the ethos of UK GovCamp, we want 2024’s event to be inclusive, accessible and fun for all involved. We have taken all your comments into consideration, and have strived to deliver the following, with the budget and time we have. We hope to continue to make the event better in future years, if you think you can help with this, please reach out to: [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com)

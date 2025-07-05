@@ -3,6 +3,7 @@ title: "#ukgcX is almost here!"
 date: 2017-01-19
 categories:
   - "ukgovcamp"
+author: "webmaster"
 ---
 
 My, my. How time does indeed fly. In the blink of an eye we find ourselves with only days to go till #ukgcX kicks off on Saturday the 21st of January, hosted by the kind folks at the [National Audit Office](https://www.google.co.uk/maps/place/National+Audit+Office/@51.4916783,-0.1485413,15z/data=!4m2!3m1!1s0x0:0x5d8dbc0441be8df3).

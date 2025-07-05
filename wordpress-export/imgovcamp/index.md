@@ -3,6 +3,7 @@ title: "imgovcamp"
 date: 2016-02-01
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Graeme Jones

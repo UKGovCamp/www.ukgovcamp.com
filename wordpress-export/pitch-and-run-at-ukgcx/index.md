@@ -3,6 +3,7 @@ title: "Pitching and running a session at #ukgcX"
 date: 2017-01-15
 categories: 
   - "ukgovcamp"
+author: "jacattell"
 ---
 
 UKGovCamp is an unconference. There is no agenda, no keynote speaker and no pre-organised talks or workshops. The people who turn up decide the shape of the day. This post explains how this works and what help is available.

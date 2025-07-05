@@ -11,6 +11,7 @@ tags:
   - "ukgc18"
   - "ukgovcamp"
 coverImage: "C2yc-o3XUAIrxUX.jpg"
+author: "webmaster"
 ---
 
 Now that autumn is here and the nights are drawing in, it's time to ramp up our efforts in getting UKGovcamp 2018 up and running.

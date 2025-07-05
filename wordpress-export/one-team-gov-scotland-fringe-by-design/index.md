@@ -4,6 +4,7 @@ date: 2019-05-31
 categories: 
   - "support-events"
 coverImage: "Screen-Shot-2017-10-18-at-14.07.02.png"
+author: "webmaster"
 ---
 
 [![OneTeamGov logo](images/Screen-Shot-2017-10-18-at-14.07.02.png)](https://www.ukgovcamp.com/wp-content/uploads/2017/10/Screen-Shot-2017-10-18-at-14.07.02.png)

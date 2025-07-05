@@ -8,6 +8,7 @@ tags:
   - "open-data"
   - "open-data-camp"
 coverImage: "00_-_2017-10-21_16_Open_Data_Camp_-_Charabang_-_ODCamp1.jpg"
+author: "webmaster"
 ---
 
 Open Data Camp have successfully applied to the UKGovCamp grant fund and will receive £500. Below is their application:

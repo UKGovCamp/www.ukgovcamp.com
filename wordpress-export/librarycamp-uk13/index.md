@@ -3,6 +3,7 @@ title: "Librarycamp UK13"
 date: 2013-05-24
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Sue Lawson

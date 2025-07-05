@@ -4,6 +4,7 @@ date: 2019-07-01
 categories:
   - "support-events"
 coverImage: "gov-jam-3.png"
+author: "jacattell"
 ---
 
 [![Global Gov Jam](images/gov-jam-3.png)](https://www.ukgovcamp.com/wp-content/uploads/2019/07/gov-jam-3.png) Global Gov Jam

@@ -4,6 +4,7 @@ date: 2021-08-21
 categories: 
   - "ukgovcamp"
 coverImage: "govcamplogo.png"
+author: "webmaster"
 ---
 
 ## **Dear UKGovcamp Community**

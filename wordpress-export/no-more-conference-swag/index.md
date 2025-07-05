@@ -10,6 +10,7 @@ tags:
   - "ukgovcamp"
   - "unconference"
 coverImage: "unnamed.jpg"
+author: "webmaster"
 ---
 
 Why there won’t be any conference swag at this year’s UKGovCamp

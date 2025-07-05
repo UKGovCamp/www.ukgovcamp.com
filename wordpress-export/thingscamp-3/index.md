@@ -4,6 +4,7 @@ date: 2017-02-06
 categories: 
   - "support-events"
 coverImage: "things-camp.jpg"
+author: "jacattell"
 ---
 
 Below is the exact text of a recently approved grant application for ThingsCamp 3.

@@ -3,6 +3,7 @@ title: "Local Democracy for Everyone – We’re not in Westminster any more"
 date: 2015-01-01
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Diane Sims

@@ -3,6 +3,7 @@ title: "GovCamp Scotland"
 date: 2016-10-23
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Leah Lockhart

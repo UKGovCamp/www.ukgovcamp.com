@@ -3,6 +3,7 @@ title: "UKGovHack 2016"
 date: 2016-03-07
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** [Kevin Lewis](https://twitter.com/_phzn)

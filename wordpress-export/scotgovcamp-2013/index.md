@@ -3,6 +3,7 @@ title: "Scotgovcamp 2013"
 date: 2013-06-17
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Lesley Thomson

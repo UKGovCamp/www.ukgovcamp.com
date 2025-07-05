@@ -8,6 +8,7 @@ tags:
   - "notwestminster"
   - "supported-events"
 coverImage: "notwestminster.jpg"
+author: "webmaster"
 ---
 
 NotWestminster have successfully applied to the UKGovcamp grant fund and will receive £1000. Below is their application:

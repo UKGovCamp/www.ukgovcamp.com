@@ -7,6 +7,7 @@ tags:
   - "ukgc25"
   - "ukgovcamp"
 coverImage: "ukgovcamp.png"
+author: "jacattell"
 ---
 
 Welcome to the United Kingdom Government Camp ([UKGovCamp)](https://www.ukgovcamp.com/about/) an annual event for people in and around the public sector. 

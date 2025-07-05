@@ -3,6 +3,7 @@ title: "Leeds Service Jam"
 date: 2016-02-01
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Kathryn Grace

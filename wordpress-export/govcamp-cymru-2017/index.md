@@ -4,6 +4,7 @@ date: 2017-07-18
 categories: 
   - "support-events"
 coverImage: "gocampcymru-1.png"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

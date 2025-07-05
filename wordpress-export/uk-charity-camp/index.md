@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "UK-Charity-Camp-logo.png"
+author: "jacattell"
 ---
 
 Harry Harrold successfully applied to the UKGovCamp grant fund for their event.

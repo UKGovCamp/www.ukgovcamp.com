@@ -3,6 +3,7 @@ title: "Code Skool"
 date: 2012-03-12
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Shirley Atkinson

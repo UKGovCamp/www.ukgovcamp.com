@@ -3,6 +3,7 @@ title: "Leeds Service Jam"
 date: 2017-01-15
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Lisa Jeffery

@@ -4,6 +4,7 @@ date: 2018-01-17
 categories: 
   - "ukgovcamp"
 coverImage: "photo-1471094188469-4a39f5d71ad8-e1516206252822.jpeg"
+author: "webmaster"
 ---
 
 ## Supporting you at UKGovcamp 2018

@@ -4,6 +4,7 @@ date: 2019-02-11
 categories:
   - "support-events"
 coverImage: "Leeds-Service-Jam.png"
+author: "jacattell"
 ---
 
 [![Leeds Service Jam logo](images/Leeds-Service-Jam-300x300.png)](https://www.ukgovcamp.com/wp-content/uploads/2019/02/Leeds-Service-Jam.png) Leeds Service Jam logo

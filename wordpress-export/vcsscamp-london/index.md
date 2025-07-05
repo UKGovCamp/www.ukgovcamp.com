@@ -4,6 +4,7 @@ date: 2017-12-22
 categories: 
   - "support-events"
 coverImage: "Screen-Shot-2017-12-22-at-14.01.08.png"
+author: "jacattell"
 ---
 
 **Description of the proposed Event:** Unconference for people involved with voluntary sector infrastructure, mainly in London, working with local organiser Superhighways, interested in better service delivery and governance using technology to improve transparency, engagement, service delivery or collaboration (websites, social media, data, email, mobile, productivity tools etc)

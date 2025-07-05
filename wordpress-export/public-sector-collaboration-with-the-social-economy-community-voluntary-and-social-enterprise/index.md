@@ -3,6 +3,7 @@ title: "Public sector collaboration with the social economy (community, voluntar
 date: 2012-03-20
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Francis Clarke

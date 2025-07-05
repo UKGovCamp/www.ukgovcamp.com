@@ -3,6 +3,7 @@ title: "GovCampIreland"
 date: 2016-03-14
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** [Brian Cleland](https://twitter.com/briancleland)

@@ -4,6 +4,7 @@ date: 2018-03-19
 categories: 
   - "sponsorship"
 coverImage: "CommsCampNorth.jpg"
+author: "jacattell"
 ---
 
 **Description of the proposed Event:** This is the first commscamp we'll have run in Sheffield. It's a new city but the same format of unconference, tickets distributed free with attendance restricted to public sector comms, pr, marketing and digital people plus sponsors. We've released 170 tickets and they went in 11 minutes (woohoo!). The aim is to share best practice learning, support and ideas with a strong digital leaning.

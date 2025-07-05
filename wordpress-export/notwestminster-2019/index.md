@@ -4,6 +4,7 @@ date: 2018-11-21
 categories: 
   - "support-events"
 coverImage: "notwestminster-2019.jpg"
+author: "jacattell"
 ---
 
 **Description of the event:** Notwestminster is a free event for everyone who has something positive to say about local democracy and anyone who is up for the challenge of making it better. The 2019 event includes two days of participant-led workshops, conversations, quick-fire talks, practical collaboration and inspiration at the Media Centre in Huddersfield on Friday 15th and Saturday 16th February 2019. Local government officers, digital makers, open data champions, activists, councillors, academics, democratic organisations and young people all participate in Notwestminster. It’s this mix of people, all with enthusiasm for finding practical ways to improve our local democracy, that makes it a unique, productive and inspiring event. You can find out more at [https://notinwestminster.wordpress.com/notwestminster-2019/](https://notinwestminster.wordpress.com/notwestminster-2019/)

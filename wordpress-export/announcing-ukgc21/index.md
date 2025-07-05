@@ -4,6 +4,7 @@ date: 2020-11-15
 categories: 
   - "ukgovcamp"
 coverImage: "govcamplogo.png"
+author: "webmaster"
 ---
 
 [![](images/49421388277_b9404d6703_k-1000x500.jpg)](https://www.ukgovcamp.com/wp-content/uploads/2020/11/49421388277_b9404d6703_k.jpg)

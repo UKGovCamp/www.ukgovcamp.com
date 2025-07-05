@@ -8,6 +8,7 @@ tags:
   - "ukgc18"
   - "ukgovcamp"
 coverImage: "holy-grail.jpg"
+author: "webmaster"
 ---
 
 Howdy UKGovcampers,

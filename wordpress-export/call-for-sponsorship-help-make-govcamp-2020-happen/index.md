@@ -4,6 +4,7 @@ date: 2019-10-31
 categories: 
   - "ukgovcamp"
 coverImage: "Screen-Shot-2019-10-31-at-13.04.17.png"
+author: "webmaster"
 ---
 
 On the 18th January 2020, GovCamp will return! We’ll be hosting the event at the [Ministry of Justice.](https://www.google.com/maps/place/Ministry+of+Justice/@51.4997581,-0.1348994,15z/data=!4m2!3m1!1s0x0:0x43d424d396c6fa7?sa=X&ved=2ahUKEwihz8e1qrLlAhXLNcAKHdvqCGAQ_BIwE3oECAwQCw) 

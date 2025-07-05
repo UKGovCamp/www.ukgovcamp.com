@@ -3,6 +3,7 @@ title: "We're back!"
 date: 2022-10-05
 categories:
   - "ukgovcamp"
+author: "vee"
 ---
 
 This year UK Gov Camp and Gov Camp North have teamed together to bring you a festival of events both online and in person as follows:

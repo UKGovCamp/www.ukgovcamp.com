@@ -8,6 +8,7 @@ tags:
   - "notwestminster"
   - "ukgovcamp-grants"
 coverImage: "notwestminster-2020-title-heart.jpg"
+author: "webmaster"
 ---
 
 Notwestminster 2020 have successfully applied to the UKGovCamp grant fund and will receive £500. Below is their application:

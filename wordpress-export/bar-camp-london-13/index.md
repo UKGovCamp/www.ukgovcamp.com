@@ -8,6 +8,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "barcamplondon.png"
+author: "jacattell"
 ---
 
 BarCampLondon have successfully applied for a grant to support their event. Here are details of the application:

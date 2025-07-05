@@ -3,6 +3,7 @@ title: "AgeCamp"
 date: 2016-01-28
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** John Popham

@@ -3,6 +3,7 @@ title: "VCSSCamp 4"
 date: 2015-06-17
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Pauline Roche

@@ -3,6 +3,7 @@ title: "nhsCommsCamp"
 date: 2013-05-08
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 **Applicant:** Kate Norman ([@sarahkatenorman](https://twitter.com/sarahkatenorman))

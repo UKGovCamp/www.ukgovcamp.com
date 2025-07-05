@@ -3,6 +3,7 @@ title: "Gov Camp Cymru"
 date: 2014-07-29
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Esko Reinikainen

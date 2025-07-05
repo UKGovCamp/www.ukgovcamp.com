@@ -7,6 +7,7 @@ tags:
   - "ukgc19"
   - "unconference"
 coverImage: "2019-Sponsor-Presentation.jpg"
+author: "webmaster"
 ---
 
 TL;DR: **Hashtag** \= #ukgc19. **Venue** \= Ministry of Justice, London SW1H 9AJ. **Timings** \= Doors open 0900, pitching 1000, doors close 1700

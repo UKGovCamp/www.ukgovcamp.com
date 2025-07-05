@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "product-connect-for-gov.jpg"
+author: "jacattell"
 ---
 
 Debbie Blanchard has successfully applied to the UKGovCamp grant fund for their event.

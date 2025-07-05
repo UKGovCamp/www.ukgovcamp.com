@@ -3,6 +3,7 @@ title: "MailCamp 2012"
 date: 2012-03-07
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Steph Gray

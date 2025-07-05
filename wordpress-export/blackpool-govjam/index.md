@@ -8,6 +8,7 @@ tags:
   - "govjam"
   - "ukgovcamp"
 coverImage: "Blackpool-Gov-Jam.jpg"
+author: "webmaster"
 ---
 
 Blackpool GovJam have successfully applied to the UKGovCamp grant fund and will receive £500. Below is their application:

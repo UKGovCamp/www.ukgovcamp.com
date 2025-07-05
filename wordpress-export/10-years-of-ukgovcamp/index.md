@@ -3,6 +3,7 @@ title: "10 years of UKGovCamp"
 date: 2017-01-19
 categories: 
   - "ukgovcamp"
+author: "jacattell"
 ---
 
 by [James Arthur Cattell](https://twitter.com/jaCattell)

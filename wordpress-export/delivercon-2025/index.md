@@ -7,6 +7,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "DeliverCon.png"
+author: "jacattell"
 ---
 
 Samuel Hoskin successfully applied to the UKGovCamp grant fund for their 21 May 2025 event in York.

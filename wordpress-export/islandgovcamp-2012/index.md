@@ -3,6 +3,7 @@ title: "IslandGovCamp 2012"
 date: 2012-04-24
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Sweyn Hunter

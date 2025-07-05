@@ -3,6 +3,7 @@ title: "Leeds Service Jam 2015"
 date: 2015-01-30
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Matt Edgar

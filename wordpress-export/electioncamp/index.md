@@ -3,6 +3,7 @@ title: "ElectionCamp"
 date: 2012-03-27
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** John Popham

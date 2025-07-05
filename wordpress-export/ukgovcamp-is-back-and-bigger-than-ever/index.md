@@ -3,6 +3,7 @@ title: "UKGovcamp is BACK and BIGGER THAN EVER!"
 date: 2023-10-11
 categories: 
   - "ukgovcamp"
+author: "vee"
 ---
 
 ### [![A picture of the opening address at UKGovcamp 2023, the seated audience watching Amanda Smith introducing the event through a megaphone.](images/picture-1.jpeg)](https://www.ukgovcamp.com/wp-content/uploads/2023/10/picture-1.jpeg)

@@ -4,8 +4,9 @@ date: 2025-06-15
 categories:
   - "govcamp"
   - "ukgovcamp"
+author: "dave.durant"
 ---
-For more than a decade GovCamp has been the UK's premier unconference for government and government-adjacent folks. During that time we've been what's known as an unincorporated association - "an organisation set up through an agreement between a group of people who come together for a reason other than to make a profit" but without any formal legal structure.
+For more than a decade GovCamp has been the UK's premier unconference for government and government-adjacent folks. During that time we've been what's known as an unincorporated association - "an organisation set up through an agreement between a group of people who come together for a reason other than to make a profit" but without any formal legal structure.
 
 We've recently decided that we need to put GovCamp on a more formal legal footing. There are a number of reasons for this.
 

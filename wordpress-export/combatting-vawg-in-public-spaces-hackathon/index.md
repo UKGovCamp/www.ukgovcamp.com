@@ -8,6 +8,7 @@ tags:
   - "supported-events"
   - "ukgovcamp-grants"
 coverImage: "Tackling-Violence-against-Women-and-Girls-in-Public-Spaces-Hackathon.png"
+author: "jacattell"
 ---
 
 Jodie Keens successfully applied to the UKGovCamp grant fund for help with their London event on Saturday 31 May and Sunday 1 June 2025.

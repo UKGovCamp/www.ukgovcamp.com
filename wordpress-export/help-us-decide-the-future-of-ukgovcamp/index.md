@@ -6,6 +6,7 @@ categories:
 tags: 
   - "ukgovcamp"
 coverImage: "661x464-ukgovcamp-logo.png"
+author: "jacattell"
 ---
 
 UKGovCamp is a brilliant community built around our annual unconference and grant fund.

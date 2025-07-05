@@ -4,6 +4,7 @@ date: 2022-10-20
 categories: 
   - "sponsorship"
 coverImage: "25981397278_80130666a1_c.jpg"
+author: "vee"
 ---
 
 # Sponsorship options

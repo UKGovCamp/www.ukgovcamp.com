@@ -3,6 +3,7 @@ title: "scotgovcamp"
 date: 2012-03-12
 categories: 
   - "support-events"
+author: "jacattell"
 ---
 
 - **Applicant:** Alex Stobart (Mydex), Bill Roberts (Swirrl), Ian Watt Aberdeen CC

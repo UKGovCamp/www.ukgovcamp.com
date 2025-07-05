@@ -4,6 +4,7 @@ date: 2017-06-21
 categories: 
   - "support-events"
 coverImage: "govcamp-transparent.png"
+author: "jacattell"
 ---
 
 Below is the text of a successful grant application.

@@ -8,6 +8,7 @@ tags:
   - "grants"
   - "supported-events"
 coverImage: "1iri-0uVVefKsQZ-odaynwg@2x.jpeg"
+author: "webmaster"
 ---
 
 GovCamp North have successfully applied to the UKGovCamp grant fund and will receive £1000. Below is their application:

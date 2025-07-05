@@ -9,6 +9,7 @@ tags:
   - "ukgovcamp"
   - "vcsscamp-9"
 coverImage: "https-cdn.evbuc_.com-images-110771205-472839438997-1-original.20200908-092635.jpeg"
+author: "webmaster"
 ---
 
 GovCamp North have successfully applied to the UKGovCamp grant fund and will receive £1000. Below is their application:
