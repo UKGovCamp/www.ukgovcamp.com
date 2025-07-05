@@ -1,0 +1,37 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import type { InferEntrySchema } from "astro:content";
+import Author from "../components/Author.astro";
+
+const wordpressPosts = await getCollection("wordpressExport");
+
+const posts = [...wordpressPosts].sort(
+    (a, b) => b.data.date.getTime() - a.data.date.getTime(),
+);
+
+const authorEntries = await getCollection("authors");
+const authors: { [key: string]: InferEntrySchema<"authors"> } = {};
+
+for (const author of authorEntries) authors[author.id] = author.data;
+---
+
+<BaseLayout title="News">
+    {
+        posts.map((post) => {
+            const author = authors[post.data.author.id] || post.data.author.id;
+
+            return (
+                <article>
+                    <h2>
+                        <a href={`/${post.id}`}>{post.data.title}</a>
+                    </h2>
+                    <p>
+                        Posted on {post.data.date.toLocaleDateString()} by <Author author={author}></Author>
+                    </p>
+                </article>
+                <hr></hr>
+            );
+        })
+    }
+</BaseLayout>; ---

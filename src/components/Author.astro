@@ -1,0 +1,20 @@
+---
+import type { InferEntrySchema } from "astro:content";
+
+interface Props {
+    author: string | InferEntrySchema<"authors">;
+}
+
+const author = Astro.props.author;
+---
+
+{
+    typeof author === "object" ? (
+        <span>
+            {author.name}
+            {author.pronouns !== undefined ? ` (${author.pronouns})` : ""}
+        </span>
+    ) : (
+        <span>{author}</span>
+    )
+}
