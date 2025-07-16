@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: "@/layouts/BaseLayout.astro"
 title: Code of Conduct
 ---
 # UKGovCamp Code of Conduct

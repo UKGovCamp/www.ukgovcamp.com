@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: "@/layouts/BaseLayout.astro"
 title: Become a sponsor
 ---
 # Become a sponsor

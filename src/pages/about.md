@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: "@/layouts/BaseLayout.astro"
 title: About UK Gov Camp
 ---
 # About UK Gov Camp

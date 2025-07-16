@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: "@/layouts/BaseLayout.astro"
 title: Privacy Policy
 ---
 # Privacy Policy

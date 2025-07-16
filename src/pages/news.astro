@@ -1,8 +1,8 @@
 ---
-import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import type { InferEntrySchema } from "astro:content";
-import Author from "../components/Author.astro";
+import Author from "@/components/Author.astro";
 
 const wordpressPosts = await getCollection("wordpressExport");
 

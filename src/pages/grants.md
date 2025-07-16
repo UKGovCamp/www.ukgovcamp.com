@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/BaseLayout.astro
+layout: "@/layouts/BaseLayout.astro"
 title: Grants
 ---
 # The grant fund is currently closed as funds are limited.
