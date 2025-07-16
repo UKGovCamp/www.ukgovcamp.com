@@ -30,7 +30,7 @@ This will make the website available at <http://localhost:4321/>. Changes you ma
 
 ## Adding new pages
 
-To add a new page, create a `.md` file in `src/pages`. See an existing page for an example, we use [GitHub Flavoured Markdowd](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), so check their documentation for how to format a page. You can also use `.astro` files if you need more complex HTML or to run code.
+To add a new page, create a `.md` file in `src/pages`. See an existing page for an example, we use [GitHub Flavoured Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), so check their documentation for how to format a page. You can also use `.astro` files if you need more complex HTML or to run code.
 
 ## How to make a new blog post
 
