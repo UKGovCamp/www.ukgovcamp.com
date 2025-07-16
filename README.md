@@ -28,6 +28,12 @@ npm run dev
 
 This will make the website available at <http://localhost:4321/>. Changes you make will automatically be rebuilt and reflected.
 
+## Editing this website
+
+In order to edit the website, you will need Edit permissions. Ask in Slack and someone should be able to give it to you.
+
+From there, you can either use an editor of your choice or edit in the GitHub interface, for example you can create a new post by navigating to the [posts](https://github.com/UKGovCamp/www.ukgovcamp.com/new/main/posts) directory and clicking 'Add File'. See below for particulars of how to add new pages or posts.
+
 ## Adding new pages
 
 To add a new page, create a `.md` file in `src/pages`. See an existing page for an example, we use [GitHub Flavoured Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), so check their documentation for how to format a page. You can also use `.astro` files if you need more complex HTML or to run code.
