@@ -5,8 +5,9 @@ import type { InferEntrySchema } from "astro:content";
 import Author from "@/components/Author.astro";
 
 const wordpressPosts = await getCollection("wordpressExport");
+const posts = await getCollection("posts");
 
-const posts = [...wordpressPosts].sort(
+const allPosts = [...posts, ...wordpressPosts].sort(
     (a, b) => b.data.date.getTime() - a.data.date.getTime(),
 );
 
@@ -18,20 +19,21 @@ for (const author of authorEntries) authors[author.id] = author.data;
 
 <BaseLayout title="News">
     {
-        posts.map((post) => {
+        allPosts.map((post) => {
             const author = authors[post.data.author.id] || post.data.author.id;
+            const url = post.collection === "wordpressExport" ? `/${post.id}` : `/posts/${post.id}`
 
             return (
                 <article>
                     <h2>
-                        <a href={`/${post.id}`}>{post.data.title}</a>
+                        <a href={url}>{post.data.title}</a>
                     </h2>
                     <p>
                         Posted on {post.data.date.toLocaleDateString()} by <Author author={author}></Author>
                     </p>
                 </article>
                 <hr></hr>
-            );
+            )
         })
     }
 </BaseLayout>; ---

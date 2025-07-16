@@ -1,0 +1,34 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { getCollection, render } from "astro:content";
+import Author from "@/components/Author.astro";
+import type { InferEntrySchema } from "astro:content";
+
+export async function getStaticPaths() {
+    const posts = await getCollection("posts");
+    return posts.map((post) => {
+        return {
+            params: { slug: post.id },
+            props: { post },
+        };
+    });
+}
+const { post } = Astro.props;
+const { Content } = await render(post);
+
+const authorEntries = await getCollection("authors");
+const authors: { [key: string]: InferEntrySchema<"authors"> } = {};
+
+for (const author of authorEntries) authors[author.id] = author.data;
+const author = authors[post.data.author.id] || post.data.author.id;
+---
+
+<BaseLayout>
+    <h2>{post.data.title}</h2>
+    <p>
+        Posted on {post.data.date.toLocaleDateString()} by <Author
+            author={author}
+        />
+    </p>
+    <Content />
+</BaseLayout>

@@ -1,47 +1,49 @@
-# Astro Starter Kit: Minimal
+# UKGovCamp Website
 
-```sh
-npm create astro@latest -- --template minimal
+## Running locally
+
+You can run this website locally to test changes before pushing them up.
+
+This will require Node.js (we target Node.js 22, but likely any recent LTS will work too) and Git. These instructions have been tested on Linux and MacOS, Windows likely will work but I don't have a Windows machine to test with.
+
+To clone the Git repository to your local computer:
+
+```shell
+git clone https://github.com/UKGovCamp/www.ukgovcamp.com.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+If you have set up an ssh key in GitHub (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account):
+```shell
+git clone git@github.com:UKGovCamp/www.ukgovcamp.com.git
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+This will create a `www.ukgovcamp` directory, so navigate to it with `cd www.ukgovcamp.com`.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+To run the website locally, you can use the following commands:
 
-Any static assets, like images, can be placed in the `public/` directory.
+```shell
+npm install
+npm run dev
+```
 
-## 🧞 Commands
+This will make the website available at <http://localhost:4321/>. Changes you make will automatically be rebuilt and reflected.
 
-All commands are run from the root of the project, from a terminal:
+## Adding new pages
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+To add a new page, create a `.md` file in `src/pages`. See an existing page for an example, we use [GitHub Flavoured Markdowd](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), so check their documentation for how to format a page. You can also use `.astro` files if you need more complex HTML or to run code.
 
-## 👀 Want to learn more?
+## How to make a new blog post
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Similar to adding new pages, a blog post can be added to the `posts` directory and it will appear in the News section of the website.
+
+The top matter of a post Markdown file should look like this:
+
+```markdown
+---
+title: This is my new blog posts
+author: joe.roberts
+date: 2025-07-16
+---
+```
+
+The `author` field should refer to a `.yaml` file in the `authors` directory, which contains metadata about authors such as name, pronouns and others to be added later.

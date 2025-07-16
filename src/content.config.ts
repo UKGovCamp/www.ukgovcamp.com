@@ -29,4 +29,16 @@ const wordpressExport = defineCollection({
   }),
 });
 
-export const collections = { wordpressExport, authors };
+const posts = defineCollection({
+  loader: glob({
+    pattern: "**/*.md",
+    base: "./posts",
+  }),
+  schema: z.object({
+    title: z.string(),
+    date: z.date(),
+    author: reference("authors"),
+  }),
+});
+
+export const collections = { posts, wordpressExport, authors };
