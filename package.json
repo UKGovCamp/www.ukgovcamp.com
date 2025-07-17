@@ -10,9 +10,12 @@
     "deploy": "astro build && wrangler deploy"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.12",
     "astro": "^5.10.0"
   },
   "devDependencies": {
+    "pretty-quick": "^4.2.2",
+    "simple-git-hooks": "^2.13.0",
     "wrangler": "^4.20.5"
   }
 }

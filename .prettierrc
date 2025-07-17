@@ -7,5 +7,7 @@
         "trailingComma": "none"
       }
     }
-  ]
+  ],
+  "printWidth": 80,
+  "proseWrap": "always"
 }

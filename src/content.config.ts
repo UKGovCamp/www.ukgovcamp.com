@@ -38,6 +38,7 @@ const posts = defineCollection({
     title: z.string(),
     date: z.date(),
     author: reference("authors"),
+    excerpt: z.string().optional(),
   }),
 });
 
