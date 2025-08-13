@@ -5,15 +5,11 @@ title: Become a sponsor
 
 # Become a sponsor
 
-UKGovCamp works because of our awesome sponsors.
+UKGovCamp happens because of our awesome sponsors.
 
-Year after year they help us grow and become more inclusive.
+Year after year they help us become more inclusive.
 
-After last year’s bumper edition, this year we will be going back to our roots
-with a 200 person event at MoJ, focussing on our community and making the event
-as enjoyable, equitable and engaging as possible.
-
-Thank you (-:
+Thank you 🙂
 
 ## Rules
 
@@ -28,37 +24,36 @@ our [code of conduct](/code-of-conduct).
 
 ## Sponsorship levels
 
-### Bronze <£250 (Unlimited)
+### Bronze <£500
 
 - logo or name on our website and any slides used during the event,
 - mentions on social media platforms we use.
 
-### Silver £500 (1 of 4 slots)
+### Silver £1000
 
 - everything in bronze,
 - 1 ticket to the event.
 
-### Gold £1000 (0 slots remaining)
+### Gold £2000
 
 - everything in silver,
 - an addtional ticket (2 in total),
 - place for your popup banner in the sponsor’s marketplace.
 
-### Platinum £2000 (2 of 8 slots remaining)
+### Platinum £3000
 
 - everything in gold,
-- 30-45 seconds pre recorded welcome to the event from your organisation with a
-  nod to what your specialism is,
-- the opportunity to run a lunch time session focused on your specialism,
+- a room to run a session over lunch,
 - a stand in the sponsor marketplace,
 - opportunity to co-sponsor a specific component of the event, eg:
-  - ~~crèche~~
-  - ~~bursaries~~
-  - ~~accessibility~~
-  - ~~catering~~
-  - ~~coffee~~
-  - ~~carbon offsetting~~
-  - post event celebration.
+  - childcare
+  - bursaries
+  - accessibility
+  - catering
+  - carbon offsetting
+  - reception the night before
+  - reception after the main event
+  - our entire tech stack
 
 It’s possible to be sole sponsor of a specific component, if you bear its full
 cost.
