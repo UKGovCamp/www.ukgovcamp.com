@@ -6,6 +6,14 @@
     {
       "pattern": "new.ukgovcamp.com",
       "custom_domain": true
+    },
+    {
+      "pattern": "ukgovcamp.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.ukgovcamp.com",
+      "custom_domain": true
     }
   ],
 
