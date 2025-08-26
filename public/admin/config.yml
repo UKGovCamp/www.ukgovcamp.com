@@ -1,0 +1,66 @@
+backend:
+  name: github
+  repo: UKGovCamp/www.ukgovcamp.com
+  base_url: https://decap-proxy.engiqueer.net
+
+media_folder: "public/images/uploads"
+
+collections:
+  - label: Posts
+    label_singular: Post
+    name: posts
+    folder: posts
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Date
+        name: date
+        widget: datetime
+        default: "{{now}}"
+        required: true
+      - label: Author
+        name: author
+        widget: relation
+        collection: authors
+        required: true
+        search_fields:
+          - name
+        display_fields:
+          - name
+        value_field: "{{slug}}"
+      - label: Excerpt
+        name: excerpt
+        widget: string
+      - label: Content
+        name: body
+        widget: markdown
+  - label: Pages
+    label_singular: Page
+    name: pages
+    folder: src/pages
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        required: true
+      - label: Content
+        name: body
+        widget: markdown
+  - label: Authors
+    label_singular: Author
+    name: authors
+    folder: authors
+    create: true
+    extension: yaml
+    fields:
+      - label: Name
+        name: name
+        widget: string
+        required: true
+      - label: Pronouns
+        name: pronouns
+        widget: string
