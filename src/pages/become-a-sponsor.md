@@ -22,7 +22,7 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 
 * everything in silver,
 * an addtional ticket (2 in total),
-* out your popup banner in our sponsor’s marketplace.
+* your popup banner in our sponsor’s marketplace.
 
 ### Platinum £2000
 
@@ -40,7 +40,8 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
   * attendee bursary,
   * reception the night before,
   * reception after the main event,
-  * * our tech stack and carbon offsetting.
+
+    * our tech stack and carbon offsetting.
 
 ## Contact us
 
