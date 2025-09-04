@@ -40,7 +40,8 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
   * attendee bursary,
   * reception the night before,
   * reception after the main event,
-  * our tech stack and carbon offsetting.
+  * our tech stack and carbon offsetting,
+  * something else you're welcome to suggest.
 
 ## Contact us
 
