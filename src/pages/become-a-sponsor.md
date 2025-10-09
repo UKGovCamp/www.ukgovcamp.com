@@ -4,7 +4,7 @@ title: Become a sponsor
 ---
 # Become a sponsor
 
-UKGovCamp is a space for people to make the public sector better. We do an annual unconference, collaborate on Slack and provide grants for other events. Our next event is on Saturday 17 January 2026 in Birmingham. We need to raise at least £30,000 to cover costs, plus more if we want to provide a grant fund in 2026. Read more on our [about us page](https://www.ukgovcamp.com/about/).
+UKGovCamp is a space for people to make the public sector better. We do an annual unconference, collaborate on Slack and provide grants for other events. Our next event is on Saturday 17 January 2026 in Birmingham, the first we have run outside London. We need to raise at least £30,000 to cover costs, plus more if we want to provide a grant fund in 2026. Read more on our [about us page](https://www.ukgovcamp.com/about/).
 
 ## Sponsorship levels
 
@@ -24,18 +24,17 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 * an addtional ticket (2 in total),
 * your popup banner in our sponsor’s marketplace.
 
-### Platinum £2000
+### Platinum £1500
 
 * everything in gold,
 * a stand in the sponsor marketplace.
 
-### Diamond £3000
+### Diamond £2000
 
-* everything in platinum, 
-* run a session over lunch, 
+* everything in platinum,
+* 60 seconds on stage during the introduction, 
 * named sponsor of either:
 
-  * the venue,
   * childcare creche,
   * attendee bursary,
   * reception the night before,
@@ -45,4 +44,4 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 
 ## Contact us
 
-Please email [sponsors@ukgovcamp.com](mailto:sponsors@ukgovcamp.com) or call James on [+447706935931.](tel:+447706935931)
+Please email [sponsors@ukgovcamp.com](mailto:sponsors@ukgovcamp.com) or call fill in [this sponsorship form (link).](https://docs.google.com/forms/d/e/1FAIpQLSerRwj1C5COPgIHsDqcp0KMTafA1J271A8p3P_PtHNxVrQMHg/viewform?usp=header)
