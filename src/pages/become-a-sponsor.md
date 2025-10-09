@@ -32,7 +32,7 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 ### Diamond £2000
 
 * everything in platinum,
-* 60 seconds on stage during the introduction, 
+* 60 seconds on stage during the introduction,
 * named sponsor of either:
 
   * childcare creche,
