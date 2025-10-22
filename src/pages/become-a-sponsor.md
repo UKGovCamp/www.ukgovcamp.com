@@ -46,4 +46,6 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 
 ## Contact us
 
-Please fill in the [become the sponsor](https://docs.google.com/forms/d/e/1FAIpQLSerRwj1C5COPgIHsDqcp0KMTafA1J271A8p3P_PtHNxVrQMHg/viewform?usp=header)[](https://docs.google.com/forms/d/e/1FAIpQLSerRwj1C5COPgIHsDqcp0KMTafA1J271A8p3P_PtHNxVrQMHg/viewform?usp=header) form or email [sponsors@ukgovcamp.com](<>)
+Please fill in the [sponsor sign-up](https://docs.google.com/forms/d/e/1FAIpQLSerRwj1C5COPgIHsDqcp0KMTafA1J271A8p3P_PtHNxVrQMHg/viewform?usp=header)[](https://docs.google.com/forms/d/e/1FAIpQLSerRwj1C5COPgIHsDqcp0KMTafA1J271A8p3P_PtHNxVrQMHg/viewform?usp=header) form or email [sponsors@ukgovcamp.com](<>).
+
+Before you chase us, please remember that UKGovCamp is run by volunteers. It may take a while to get back to you, and you can [see our progress on Trello](https://trello.com/b/YoM3xROC).
