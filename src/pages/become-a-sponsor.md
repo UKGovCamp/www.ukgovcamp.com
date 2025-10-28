@@ -23,26 +23,33 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 ### Gold £1000
 
 * everything in silver,
-* an addtional ticket (2 in total),
-* your popup banner in our sponsor’s marketplace.
+* an additional ticket (2 in total),
+* your pop-up banner in our sponsor’s marketplace.
 
 ### Platinum £1500
 
 * everything in gold,
-* a stand in the sponsor marketplace.
+* a stand in the sponsor marketplace:
+
+  * trestle table (1.8m x 0.7m),
+  * electrical power (4 ports).
 
 ### Diamond £2000
 
 * everything in platinum,
-* 60 seconds on stage during the introduction,
+* 30 seconds on stage during the introduction,
 * named sponsor of either:
 
-  * childcare creche,
+  * childcare crèche,
   * attendee bursary,
   * reception the night before,
   * reception after the main event,
   * our tech stack and carbon offsetting,
   * something else you're welcome to suggest.
+
+### Additional tickets
+
+If you've chosen your sponsorship level and want to purchase additional tickets, they are £500 each up to a maximum for 4 people per sponsor. 
 
 ## Contact us
 
