@@ -4,6 +4,7 @@ import Sponsor from "../components/Sponsor.astro";
 import ImageDxw from "../images/dxw.png";
 import ImageSocietyWorks from "../images/societyworks.png";
 import ImagePaper from "../images/paper.png";
+import ImageFaculty from "../images/Faculty.png";
 ---
 
 <BaseLayout title="Our Sponsors">
@@ -16,6 +17,11 @@ import ImagePaper from "../images/paper.png";
 
     <h2>Diamond Sponsors</h2>
     <div class="sponsors">
+        <Sponsor
+            image={ImageFaculty}
+            name="Faculty"
+            link="https://faculty.ai/"
+        />
         <Sponsor
             image=""
             name="Jadu"
