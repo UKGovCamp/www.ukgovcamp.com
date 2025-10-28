@@ -49,7 +49,7 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 
 ### Additional tickets
 
-If you've chosen your sponsorship level and want to purchase additional tickets, they are £500 each up to a maximum for 4 people per sponsor. 
+£500 per person. Each sponsor can have a maximum of 4 tickets in total. 
 
 ## Contact us
 
