@@ -26,7 +26,7 @@ const author = authors[post.data.author.id] || post.data.author.id;
 <BaseLayout>
     <h2>{post.data.title}</h2>
     <p>
-        Posted on {post.data.date.toLocaleDateString()} by <Author
+        Posted on {post.data.date.toLocaleDateString("en-GB")} by <Author
             author={author}
         />
     </p>
