@@ -4,6 +4,6 @@ const { image, name, title, link } = Astro.props;
 ---
 
 <div class="sponsor">
-    <a href={link}> <Image src={image} alt={name} title={name} /></a>
+    <a href={link}>{image ? <Image src={image} alt={name} title={name} /> : name}</a>
     {title && <span class="sponsor-title">{title}</span>}
 </div>
