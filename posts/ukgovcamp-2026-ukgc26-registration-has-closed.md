@@ -10,4 +10,6 @@ Tickets will be issued next week in early November. \
 \
 We won't be running a lottery this year, so everyone who applied will get a ticket. 
 
-More details will follow next week.
+If you registered, but don't receive a ticket by the end of next week (Friday 7 November 2025) then it's likely you gave us the wrong email address or you've changed email address since you registered. 
+
+Please don't contact us until Friday 7 November 2025 with queries about tickets. UKGovCamp is run by volunteers who all have busy day jobs.
