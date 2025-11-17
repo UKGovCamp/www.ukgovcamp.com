@@ -49,7 +49,7 @@ UKGovCamp is a space for people to make the public sector better. We do an annu
 
 ### Additional tickets
 
-£500 per person. Each sponsor can have a maximum of 4 tickets in total. 
+£150 per person. Each sponsor can have a maximum of 4 tickets in total. 
 
 ## Contact us
 
