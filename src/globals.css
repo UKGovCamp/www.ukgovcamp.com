@@ -256,6 +256,13 @@ footer a:visited {
   margin: 10px;
 }
 
+.sponsor a {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .sponsor img {
   max-width: 100%;
   height: auto;
