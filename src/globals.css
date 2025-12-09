@@ -272,3 +272,14 @@ footer a:visited {
   display: table;
   margin: 0 auto;
 }
+
+:where([data-astro-image]) {
+  object-fit: var(--fit);
+  object-position: var(--pos);
+}
+:where([data-astro-image="full-width"]) {
+  width: 100%;
+}
+:where([data-astro-image="constrained"]) {
+  max-width: 100%;
+}

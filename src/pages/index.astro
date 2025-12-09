@@ -1,8 +1,12 @@
 ---
 import Author from "@/components/Author.astro";
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
 import type { InferEntrySchema } from "astro:content";
 import { getCollection } from "astro:content";
+
+import BirminghamCouncilHouse from "../images/Birmingham_Council_House.jpg";
+import AboutImage from "../images/about-image.jpg";
 
 const posts = await getCollection("posts");
 const wordPressPosts = await getCollection("wordpressExport");
@@ -28,10 +32,14 @@ const latestPostUrl =
 <BaseLayout title="UK Gov Camp">
     <div class="accent">
         <p>
-            UKGovCamp 2026 (#ukgc26) is on Saturday 17 January 2026 at Birmingham City <a href="https://maps.app.goo.gl/ADdPNLXfjcfFEnDk7"  target="_blank">Council House</a>.
+            UKGovCamp 2026 (#ukgc26) is on Saturday 17 January 2026 at <a href="https://maps.app.goo.gl/ADdPNLXfjcfFEnDk7">Birmingham City Council House</a>.
         </p>
         <p>
-            Registration is now closed and tickets will be issued in early November.
+            <Image src={BirminghamCouncilHouse} alt="An image of Birmingham City Council House"/>
+        </p>
+        <p>
+            Registration is now closed and tickets have been allocated. Thanks to everyone who applied!
+
         </p>
         <p>
             We still have some <a href="https://www.ukgovcamp.com/become-a-sponsor/">sponsorship opportunities</a>.
@@ -39,35 +47,23 @@ const latestPostUrl =
     </div>
     <h2>About</h2>
     <p>
-        UKGovCamp is a free, annual unconference for people who want to make the
-        public sector better.
+        Since 2007, <a href="/about">UKGovCamp</a> has been a welcoming and inclusive annual event to enable people working in or with the public sector to come together and try to make things better. It is free, run entirely by volunteers and funded by <a href="/sponsors">sponsors</a>. Unconference topics are set by attendees on the day, and discuss things which are important to them, in the hope of achieving better outcomes for users of public services.
     </p>
-    <h2>Past events</h2>
     <p>
-        The agenda is set by the people who turn up, using the well establised
-        unconference format.
+        The magic of the day comes from the serendipity created by bringing people who work in different areas of the public sector together so they can talk as equals, irrespective of grade or role. Everyone's experiences and input are important, and this open, informal and relaxed forum is what makes the event special.
+    </p>
+    <p>
+        Every previous UKGovCamp has taken place in London, but this year we want to break it out. With its legacy of digital innovation and role as a central and local government hub, Birmingham was chosen as best fit for this experiment. This presents an opportunity for new attendees from the region and beyond to benefit from attending a UKGovCamp and seeing what a vibrant city Birmingham is.
+    </p>
+    <p>
+        <a href="/agenda">Read more about the day here</a> and check here for <a href="/faq">frequently asked questions</a>.
+    </p>
+    <p>
+        <Image src={AboutImage} alt="A photo of the pitch board, with many multi-colour sticky notes posted."/>
     </p>
     <h2>Sponsors</h2>
     <p>
-        Sponsors help us make accessible, memorable events. Leftover funds go
-        into our grant fund.
+        UKGovCamp would not be possible without our <a href="/sponsors">sponsors</a>; they help us make accessible, memorable events, keep them free to attend and provide catering, creché, bursaries and more. We are not-for-profit; and any funds left over from running costs go into our <a href="/grants">grant fund</a> to help the GovCamp community run other valuable events throughout the year.
+
     </p>
-    <div class="accent">
-        <h2>Latest news</h2>
-        <h3>
-            <a href={latestPostUrl}>{latestPost.data.title}</a>
-        </h3>
-        {
-            latestPost.collection === "posts" && latestPost.data.excerpt ? (
-                <p>{latestPost.data.excerpt}</p>
-            ) : (
-                ""
-            )
-        }
-        <p>
-            Posted on {latestPost.data.date.toLocaleDateString("en-GB")} by <Author
-                author={latestPostAuthor}
-            />
-        </p>
-    </div>
 </BaseLayout>
