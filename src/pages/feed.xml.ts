@@ -23,6 +23,5 @@ export const GET: APIRoute = async (context) => {
           : `/posts/${post.id}`,
       author: post.data.author.id,
     })),
-    stylesheet: "/pretty-feed-v3.xsl",
   });
 };
