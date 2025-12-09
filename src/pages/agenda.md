@@ -10,7 +10,7 @@ title: What should I expect from the day?
 
 **Date:** Saturday 17th January 2026
 
-**Time**: 10:00 – 16:30
+**Time**: 10:00 - 16:30
 
 A day of discussions (not presentations). So come with ideas to discuss,
 questions to answer and interactive workshops you’d like to run (not slide
@@ -44,16 +44,34 @@ Please read our [Code of Conduct](/code-of-conduct).
 
 ## Agenda
 
-08:30: Venue open for volunteers 09:00: Registration open to attendees with
-drinks and pastries provided by the venue 10:00 – 10:20: Opening Ceremony with a
-welcome speech from Joanne Roney, Managing Director of Birmingham City Council
-10:20 – 10:50: Pitches for unconference sessions: everyone has a pitch in them,
+08:30: Venue open for volunteers
+
+09:00: Registration open to attendees with drinks and pastries provided by the
+venue
+
+10:00-10:20: Opening Ceremony with a welcome speech from Joanne Roney, Managing
+Director of Birmingham City Council
+
+10:20-10:50: Pitches for unconference sessions: everyone has a pitch in them,
 and these pitches build the sessions for the day, and populate the session grid
-11:00 – 11:45: First unconference session 12:00 – 12:45: Second unconference
-session 12:45 – 13:45: Lunch provided by the venue 13:45 – 14:30: Third
-unconference session 14:45 – 15:30: Fourth unconference session 15:45 – 16:30:
-Fifth unconference session 16:30: Closing ceremony and thoughts on the day 16:45
-– 18:00: Social time with soft drinks provided by the venue 18:00: Close
+
+11:00-11:45: First unconference session
+
+12:00-12:45: Second unconference session
+
+12:45-13:45: Lunch provided by the venue
+
+13:45-14:30: Third unconference session
+
+14:45-15:30: Fourth unconference session
+
+15:45-16:30: Fifth unconference session
+
+16:30: Closing ceremony and thoughts on the day
+
+16:45-18:00: Social time with soft drinks provided by the venue
+
+18:00: Close
 
 ## Social Media
 
