@@ -136,7 +136,7 @@ government pass is fine).
 ### Where can I find an agenda for the day?
 
 Once built, the agenda will be hosted on a physical board at the event. We will
-also publish it online for a.
+also publish it online for attendees.
 
 ### Do I need to bring a laptop?
 
