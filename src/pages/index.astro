@@ -7,6 +7,7 @@ import { getCollection } from "astro:content";
 
 import BirminghamCouncilHouse from "../images/Birmingham_Council_House.jpg";
 import AboutImage from "../images/about-image.jpg";
+import TreesForLifeLogo from "../images/treesforlife.svg";
 
 const posts = await getCollection("posts");
 const wordPressPosts = await getCollection("wordpressExport");
@@ -45,6 +46,7 @@ const latestPostUrl =
             We still have some <a href="https://www.ukgovcamp.com/become-a-sponsor/">sponsorship opportunities</a>.
         </p>
     </div>
+
     <h2>About</h2>
     <p>
         Since 2007, <a href="/about">UKGovCamp</a> has been a welcoming and inclusive annual event to enable people working in or with the public sector to come together and try to make things better. It is free, run entirely by volunteers and funded by <a href="/sponsors">sponsors</a>. Unconference topics are set by attendees on the day, and discuss things which are important to them, in the hope of achieving better outcomes for users of public services.
@@ -61,9 +63,19 @@ const latestPostUrl =
     <p>
         <Image src={AboutImage} alt="A photo of the pitch board, with many multi-colour sticky notes posted."/>
     </p>
+
     <h2>Sponsors</h2>
     <p>
         UKGovCamp would not be possible without our <a href="/sponsors">sponsors</a>; they help us make accessible, memorable events, keep them free to attend and provide catering, creché, bursaries and more. We are not-for-profit; and any funds left over from running costs go into our <a href="/grants">grant fund</a> to help the GovCamp community run other valuable events throughout the year.
-
     </p>
+
+    <div class="treesforlife">
+      <h2>Grove Camp</h2>
+      <p>
+        <Image src={TreesForLifeLogo} alt="Trees for Life"/>
+      </p>
+      <p>
+        Since 2019, UKGovCamp has supported the <a href="https://treesforlife.org.uk/">Trees for Life</a> initiative. Trees in our grove will be carefully planted in protected sites in the Scottish Highlands where they will create homes for wildlife and forests for the future. If you’d like to plant a tree or make a donation, please <a href="https://treesforlife.org.uk/groves/96110/">visit our grove</a>.
+      </p>
+    </div>
 </BaseLayout>

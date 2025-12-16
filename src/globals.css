@@ -61,7 +61,6 @@ main {
   max-width: 60rem;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 20px;
 }
 
 a {
@@ -228,6 +227,15 @@ h3 {
   color: var(--accent-fg-color);
   background-color: var(--accent-bg-color);
   box-shadow: 0 0 0 100vmax var(--accent-bg-color);
+  clip-path: inset(0 -100vmax);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.treesforlife {
+  color: rgb(255, 255, 255);
+  background-color: rgb(57, 78, 60);
+  box-shadow: 0 0 0 100vmax rgb(57, 78, 60);
   clip-path: inset(0 -100vmax);
   padding-top: 1rem;
   padding-bottom: 1rem;
