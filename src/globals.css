@@ -272,8 +272,8 @@ footer a:visited {
 }
 
 .sponsor img {
-  max-width: 100%;
-  height: auto;
+  width: 100%;
+  max-height: 200px;
 }
 
 .sponsor-title {
