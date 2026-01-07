@@ -2,13 +2,11 @@
 layout: "@/layouts/BaseLayout.astro"
 title: Code of Conduct
 ---
-
 # UKGovCamp Code of Conduct
 
-**Need to report an incident? Approach an organiser, volunteer or call
-+447706935931.**
+**Need to report an incident? Approach an organiser.**
 
-We (the organisers of UKGovCamp) believe that our onvline spaces, just like our
+We (the organisers of UKGovCamp) believe that our online spaces, just like our
 physical spaces, should be free from harassment, bullying and hate.
 
 We are dedicated to providing a harassment-free experience for everyone,
@@ -22,18 +20,18 @@ attendees, organisers, volunteers (referred to as ‘Campmakers’) and sponsors
 
 ## Unacceptable behaviour includes (but is not limited to):
 
-- offensive verbal comments
-- deliberate intimidation, bullying, harassment
-- stalking and/or following
-- violence and/or threats of violence
-- unwelcome sexual attention or physical contact
-- sharing content/links to content which is illegal, pornographic or other
+* offensive verbal comments
+* deliberate intimidation, bullying, harassment
+* stalking and/or following
+* violence and/or threats of violence
+* unwelcome sexual attention or physical contact
+* sharing content/links to content which is illegal, pornographic or other
   inappropriate material
-- sustained disruption of talks/sessions
-- other behaviour deemed inappropriate, offensive, threatening or harmful.
-- unsolicited and/or persistent messaging in private channels (e.g. twitter
+* sustained disruption of talks/sessions
+* other behaviour deemed inappropriate, offensive, threatening or harmful.
+* unsolicited and/or persistent messaging in private channels (e.g. twitter
   direct messages)
-- instigating or encouraging any of the behaviours set out above is also
+* instigating or encouraging any of the behaviours set out above is also
   unacceptable
 
 If a participant engages in behaviour that violates this code of conduct, the
@@ -67,8 +65,8 @@ inclusive and friendly event for all. We are grateful to the following
 organisers for publishing their code of conduct, which we have used to improve
 ours.
 
-- https://confcodeofconduct.com/
-- [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-- [Úll 2018 Code of Conduct](https://2018.ull.ie/code/)
-- [DotiFest Code of Conduct](https://dotifest.com/Code-of-Conduct)
-- [YouGotThis Conference](https://yougotthis.io/conduct/)
+* https://confcodeofconduct.com/
+* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+* [Úll 2018 Code of Conduct](https://2018.ull.ie/code/)
+* [DotiFest Code of Conduct](https://dotifest.com/Code-of-Conduct)
+* [YouGotThis Conference](https://yougotthis.io/conduct/)
