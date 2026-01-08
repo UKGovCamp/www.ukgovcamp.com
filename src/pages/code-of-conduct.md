@@ -52,7 +52,7 @@ Please do not record sessions.
 ## How to report an incident:
 
 If you believe you’re experiencing unacceptable behaviour as outlined above,
-please approach an organiser, volunteer or call +447706935931.
+please approach an organiser.
 
 Please also tell us if you observe a potentially dangerous situation, someone in
 distress, or violations of these guidelines; even if the situation is not
