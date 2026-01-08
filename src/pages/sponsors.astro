@@ -2,9 +2,11 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Sponsor from "../components/Sponsor.astro";
 
+import ImageCaci from "../images/sponsors/caci.png";
 import ImageDelib from "../images/sponsors/delib.png";
 import ImageDxw from "../images/sponsors/dxw.png";
 import ImageFaculty from "../images/sponsors/faculty.png";
+import ImageGain from "../images/sponsors/gain.jpg";
 import ImageHippoDigital from "../images/sponsors/hippo.svg";
 import ImageJadu from "../images/sponsors/jadu.png";
 import ImageMadeTech from "../images/sponsors/madetech.png";
@@ -20,6 +22,7 @@ import ImageSoftwire from "../images/sponsors/softwire.jpg";
 import ImageSwiftStrategies from "../images/sponsors/swift.png";
 import ImageTorchbox from "../images/sponsors/torchbox.png";
 import ImageTPXImpact from "../images/sponsors/tpximpact.png";
+import ImageWebcurl from "../images/sponsors/webcurl.svg";
 ---
 
 <BaseLayout title="Our Sponsors">
@@ -33,9 +36,19 @@ import ImageTPXImpact from "../images/sponsors/tpximpact.png";
     <h2>Diamond Sponsors</h2>
     <div class="sponsors">
         <Sponsor
+            image={ImageCaci}
+            name="CACI "
+            link="https://www.caci.co.uk/"
+        />
+        <Sponsor
             image={ImageFaculty}
             name="Faculty"
             link="https://faculty.ai/"
+        />
+        <Sponsor
+            image={ImageGain}
+            name="GAIN"
+            link="https://www.thisisgain.com/"
         />
         <Sponsor
             image={ImageJadu}
@@ -85,6 +98,11 @@ import ImageTPXImpact from "../images/sponsors/tpximpact.png";
             image={ImageSocietyWorks}
             name="SocietyWorks"
             link="https://www.societyworks.org/"
+        />
+        <Sponsor
+            image={ImageWebcurl}
+            name="Webcurl"
+            link="https://www.webcurl.co.uk/"
         />
     </div>
 
