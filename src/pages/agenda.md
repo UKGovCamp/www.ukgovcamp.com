@@ -2,11 +2,10 @@
 layout: "@/layouts/BaseLayout.astro"
 title: What should I expect from the day?
 ---
-
 # What should I expect from the day?
 
 **Location:**
-[Birmingham City Council House, Victoria Square, Birmingham B1 1B](https://www.birmingham.gov.uk/directory_record/3599/council_house)
+[Birmingham City Council House, Victoria Square, Birmingham B1 1BB](https://www.birmingham.gov.uk/directory_record/3599/council_house)
 
 **Date:** Saturday 17th January 2026
 
@@ -29,9 +28,9 @@ call this the law of mobility and it helps spread ideas between sessions.
 
 If you’d like to read more, we recommend:
 
-- [What to expect at UKGovCamp](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81)
+* [What to expect at UKGovCamp](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81)
   by [Steve Parks](https://bsky.app/profile/steveparks.bsky.social),
-- [Sharing what I learnt at UKGovCamp](https://dwpdigital.blog.gov.uk/2018/02/19/sharing-what-i-learnt-at-ukgovcamp/)
+* [Sharing what I learnt at UKGovCamp](https://dwpdigital.blog.gov.uk/2018/02/19/sharing-what-i-learnt-at-ukgovcamp/)
   by [Debbie Blanchard](https://bsky.app/profile/debblanch44.bsky.social).
 
 Sessions last around 45 minutes, with time for swapping and changing rooms in
@@ -75,7 +74,7 @@ and these pitches build the sessions for the day, and populate the session grid
 
 ## Social Media
 
-The hashtag is \#ukgc26 (which is short for UKGovCamp 2026). Please use it in
+The hashtag is #ukgc26 (which is short for UKGovCamp 2026). Please use it in
 everything you share publicly. You can also tag the UKGovCamp social media
 accounts on [BlueSky](https://bsky.app/profile/ukgovcamp.bsky.social),
 [LinkedIn](https://www.linkedin.com/company/ukgovcamp) and
@@ -84,7 +83,7 @@ accounts on [BlueSky](https://bsky.app/profile/ukgovcamp.bsky.social),
 ## Session notes
 
 Each session has its own collaborative document that anyone can edit. You can
-access the docs via the session grid at [TBD]()
+access the docs via the session grid at [TBD](<>)
 
 Each session will have a couple of volunteers to add names and notes to the
 documents. But you’re welcome to add your own notes to the docs, either on the
@@ -108,5 +107,5 @@ volunteer for location and access.
 ## Sunday and beyond
 
 Once you’ve recovered, please do dip into the session notes and share your blog
-posts via the \#ukgc26 hashtag. Your thoughts will help make the public sector
+posts via the #ukgc26 hashtag. Your thoughts will help make the public sector
 better.
