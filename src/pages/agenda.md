@@ -48,8 +48,7 @@ Please read our [Code of Conduct](/code-of-conduct).
 09:00: Registration open to attendees with drinks and pastries provided by the
 venue
 
-10:00-10:20: Opening Ceremony with a welcome speech from Joanne Roney, Managing
-Director of Birmingham City Council
+10:00-10:20: Opening Ceremony with a welcome speech from Katy Fox, BCC Executive Director for HR and Organisational Development
 
 10:20-10:50: Pitches for unconference sessions: everyone has a pitch in them,
 and these pitches build the sessions for the day, and populate the session grid
