@@ -61,7 +61,7 @@ limited space.
 *For people who do not require accessibility arrangements:*
 
 There is no parking at the venue; however, there are council car parks in the
-area. Please check the [Birmingham City Council Website](https://www.birmingham.gov.uk/citycentrecarparks).
+area. Please check the [Birmingham City Council Website ](https://www.birmingham.gov.uk/citycentrecarparks)([](https://www.birmingham.gov.uk/citycentrecarparks)Snow Hill and Town Hall are the closest car parks).
 
 ### How far is the venue from the local train stations?
 
