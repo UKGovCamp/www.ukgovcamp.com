@@ -61,7 +61,7 @@ limited space.
 *For people who do not require accessibility arrangements:*
 
 There is no parking at the venue; however, there are council car parks in the
-area. Please check the Birmingham City Council Website.
+area. Please check the [Birmingham City Council Website](https://www.birmingham.gov.uk/citycentrecarparks).
 
 ### How far is the venue from the local train stations?
 
@@ -108,7 +108,7 @@ Yes, the building is fully wheelchair accessible. Please email
 Free Wi-Fi will be available on the site, provided by BCC. You may also access
 the GOV Roam Wi-Fi at the venue.
 
-**Brum Free Wi‑Fi (For delegates)**
+*Brum Free Wi‑Fi (For delegates)*
 
 Delegates will use the public Brum Free Wi‑Fi / O2 Wi‑Fi network.
 
@@ -123,7 +123,7 @@ Notes:
 * No password required.
 * Public network; speed may vary.
 
-**GovRoam (For Public Sector Staff)**
+*GovRoam (For Public Sector Staff)*
 
 How to connect:
 
