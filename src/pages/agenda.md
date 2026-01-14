@@ -43,7 +43,7 @@ Please read our [Code of Conduct](/code-of-conduct).
 
 ## Floor Map
 
-![Floor Map of Brimingham City Council House, demonstrating the venue layout and accessibility facilities.](/public/images/uploads/ukgc-venue-floor-map.jpg)
+![Floor Map of Brimingham City Council House, demonstrating the venue layout and accessibility facilities.](public/images/uploads/ukgc-venue-floor-map.jpg)
 
 ## Agenda
 
