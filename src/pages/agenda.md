@@ -41,6 +41,10 @@ will be provided at the venue, which is open until 18:00.
 
 Please read our [Code of Conduct](/code-of-conduct).
 
+## Floor Map
+
+![Floor Map of Brimingham City Council House, demonstrating the venue layout and accessibility facilities.](/public/images/uploads/ukgc-venue-floor-map.jpg)
+
 ## Agenda
 
 08:30: Venue open for volunteers
