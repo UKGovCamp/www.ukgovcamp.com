@@ -2,6 +2,7 @@
 layout: "@/layouts/BaseLayout.astro"
 title: What should I expect from the day?
 ---
+
 # What should I expect from the day?
 
 **Location:**
@@ -28,9 +29,9 @@ call this the law of mobility and it helps spread ideas between sessions.
 
 If you’d like to read more, we recommend:
 
-* [What to expect at UKGovCamp](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81)
+- [What to expect at UKGovCamp](https://blog.weareconvivio.com/what-to-expect-at-ukgovcamp-ecc37191dc81)
   by [Steve Parks](https://bsky.app/profile/steveparks.bsky.social),
-* [Sharing what I learnt at UKGovCamp](https://dwpdigital.blog.gov.uk/2018/02/19/sharing-what-i-learnt-at-ukgovcamp/)
+- [Sharing what I learnt at UKGovCamp](https://dwpdigital.blog.gov.uk/2018/02/19/sharing-what-i-learnt-at-ukgovcamp/)
   by [Debbie Blanchard](https://bsky.app/profile/debblanch44.bsky.social).
 
 Sessions last around 45 minutes, with time for swapping and changing rooms in
@@ -43,7 +44,7 @@ Please read our [Code of Conduct](/code-of-conduct).
 
 ## Floor Map
 
-![Floor Map of Brimingham City Council House, demonstrating the venue layout and accessibility facilities.](public/images/uploads/ukgc-venue-floor-map.jpg "Floor Map of Brimingham City Council House")
+![Floor Map of Brimingham City Council House, demonstrating the venue layout and accessibility facilities.](../images/ukgc-venue-floor-map.jpg "Floor Map of Brimingham City Council House")
 
 ## Agenda
 
@@ -52,7 +53,8 @@ Please read our [Code of Conduct](/code-of-conduct).
 09:00: Registration open to attendees with drinks and pastries provided by the
 venue
 
-10:00-10:20: Opening Ceremony with a welcome speech from Katy Fox, BCC Executive Director for HR and Organisational Development
+10:00-10:20: Opening Ceremony with a welcome speech from Katy Fox, BCC Executive
+Director for HR and Organisational Development
 
 10:20-10:50: Pitches for unconference sessions: everyone has a pitch in them,
 and these pitches build the sessions for the day, and populate the session grid
@@ -86,7 +88,7 @@ accounts on [BlueSky](https://bsky.app/profile/ukgovcamp.bsky.social),
 ## Session notes
 
 Each session has its own collaborative document that anyone can edit. You can
-access the docs via the session grid at [TBD](<>)
+access the docs via the session grid at [TBD]()
 
 Each session will have a couple of volunteers to add names and notes to the
 documents. But you’re welcome to add your own notes to the docs, either on the
