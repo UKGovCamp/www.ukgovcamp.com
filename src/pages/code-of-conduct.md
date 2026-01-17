@@ -4,7 +4,7 @@ title: Code of Conduct
 ---
 # UKGovCamp Code of Conduct
 
-**Need to report an incident? Approach an organiser.**
+**Need to report an incident? Approach an organiser or write to <conduct@ukgovcamp.com>.**
 
 We (the organisers of UKGovCamp) believe that our online spaces, just like our
 physical spaces, should be free from harassment, bullying and hate.
@@ -52,11 +52,30 @@ Please do not record sessions.
 ## How to report an incident:
 
 If you believe you’re experiencing unacceptable behaviour as outlined above,
-please approach an organiser.
+please approach an organiser or write to <conduct@ukgovcamp.com>.
 
 Please also tell us if you observe a potentially dangerous situation, someone in
 distress, or violations of these guidelines; even if the situation is not
 happening to you. We are here to help.
+
+## Code of Conduct Support Team
+
+Your Code of Conduct Support Team of UKGovCamp 2026:
+
+- @ael
+- @ImranH_GDS
+- @Vikki
+(The above are their handles in UKGovCamp's Slack.)
+
+The Code of Conduct Support Teaem is responsible to process the Code of Conduct violation reports. The complaint details will only be accessible by the memebers of Code of Conduct Support Team. If the person who is harassing you is on the Code of Conduct Support team, they will remove themselves from handling your case.
+
+We will act as promptly and fairly as we can to resolve the situation. However, due to the limited volunteering capacity, we may only be able to deal with complaints filed withing 2 weeks after the event.
+
+## Possible actions from the Code of Conduct Support Team:
+- Address the problems to people who we want them to change behaviours.
+- Individuals banned from being an organiser, a volunteer or a participant.
+- Organising mechanism improvement for the next time, e.g. review the Code of Conduct.
+- If any criminal offences are involved, assist them to log it to the police.
 
 ## Thank you
 
@@ -70,3 +89,4 @@ ours.
 * [Úll 2018 Code of Conduct](https://2018.ull.ie/code/)
 * [DotiFest Code of Conduct](https://dotifest.com/Code-of-Conduct)
 * [YouGotThis Conference](https://yougotthis.io/conduct/)
+* [mySociety Code of Conduct](https://www.mysociety.org/code-of-conduct/)
