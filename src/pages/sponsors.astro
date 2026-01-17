@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Sponsor from "../components/Sponsor.astro";
 
+import ImageAgile from "../images/sponsors/agile.png";
 import ImageDelib from "../images/sponsors/delib.png";
 import ImageDxw from "../images/sponsors/dxw.png";
 import ImageFaculty from "../images/sponsors/faculty.png";
@@ -21,6 +22,7 @@ import ImageSoftwire from "../images/sponsors/softwire.jpg";
 import ImageSwiftStrategies from "../images/sponsors/swift.png";
 import ImageTorchbox from "../images/sponsors/torchbox.png";
 import ImageTPXImpact from "../images/sponsors/tpximpact.png";
+import ImageUnboxed from "../images/sponsors/unboxed.png";
 import ImageWebcurl from "../images/sponsors/webcurl.svg";
 ---
 
@@ -103,6 +105,11 @@ import ImageWebcurl from "../images/sponsors/webcurl.svg";
     <h2>Gold sponsors</h2>
     <div class="sponsors">
         <Sponsor
+            image={ImageAgile}
+            name="Agile"
+            link="https://www.agile.co.uk/"
+        />
+        <Sponsor
             image={ImageDelib}
             name="Delib"
             link="https://www.delib.net/"
@@ -136,6 +143,15 @@ import ImageWebcurl from "../images/sponsors/webcurl.svg";
             image={ImageTPXImpact}
             name="TPX Impact"
             link="https://www.tpximpact.com/"
+        />
+    </div>
+
+    <h2>Silver sponsors</h2>
+    <div class="sponsors">
+        <Sponsor
+            image={ImageUnboxed}
+            name="Unboxed"
+            link="https://unboxed.co/"
         />
     </div>
 
