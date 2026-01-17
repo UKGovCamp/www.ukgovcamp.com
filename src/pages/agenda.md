@@ -88,7 +88,7 @@ accounts on [BlueSky](https://bsky.app/profile/ukgovcamp.bsky.social),
 ## Session notes
 
 Each session has its own collaborative document that anyone can edit. You can
-access the docs via the session grid at [TBD]()
+access the docs via [the session grid](https://www.ukgovcamp.com/grid).
 
 Each session will have a couple of volunteers to add names and notes to the
 documents. But you’re welcome to add your own notes to the docs, either on the
