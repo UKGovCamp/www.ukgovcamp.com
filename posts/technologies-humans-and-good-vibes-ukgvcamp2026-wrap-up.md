@@ -12,9 +12,9 @@ What a weekend! A HUGE shout-out and thank you to everyone who made UKGovCamp 20
 
 The day kicked off with a brilliant opening ceremony featuring Katy Fox FCIPD, CPO of Birmingham City Council, welcoming everyone. Then, one of our organisers, Irman, guided us through the unconference format and the all-important session pitching with lots of laughter!
 
-![Katy Fox FCIPD, CPO of Birmingham City Council, wearing a grey checked suit, stands on a stage with a microphone, smiling and gesturing to welcome a large audience in a brightly lit hall.](/public/images/uploads/govcamp26-051.jpg)
+![Katy Fox FCIPD, CPO of Birmingham City Council, wearing a grey checked suit, stands on a stage with a microphone, smiling and gesturing to welcome a large audience in a brightly lit hall.](public/images/uploads/govcamp26-051.jpg)
 
-![Wide shot of a crowded hall where approximately 100 people are seated. Many participants have their hands raised toward the stage, signaling their interest in pitching. The atmosphere is professional and collaborative.](/public/images/uploads/govcamp26-060.jpg)
+![Wide shot of a crowded hall where approximately 100 people are seated. Many participants have their hands raised toward the stage, signaling their interest in pitching. The atmosphere is professional and collaborative.](public/images/uploads/govcamp26-060.jpg)
 
 As always, the sessions cover a massive range of topics. We had everything from the hottest word in government right now, "AI," to deep dives into human-centred approaches.
 
@@ -31,13 +31,11 @@ Here’s a quick look at the kind of topics:
 * **Sector Applications:** Everything from transport and digital identity to cross-government sharing.
 * **Alternative Formats:** We even had some experimental learning like "failcamp", “hopecamp” and "megagames".
 
-![A large group of participants gathering in a spacious hall for a session. Behind them, a wall is covered in colorful sticky notes, highlighting a collaborative brainstorming process.](/public/images/uploads/govcamp26-227.jpg)
+![A large group of participants gathering in a spacious hall for a session. Behind them, a wall is covered in colorful sticky notes, highlighting a collaborative brainstorming process.](public/images/uploads/govcamp26-227.jpg)
 
-![A group of seven diverse participants sitting around a circular wooden table in a brightly lit office, engaged in an active discussion with notebooks and laptops open.](/public/images/uploads/govcamp26-168.jpg)
+![A group of seven diverse participants sitting around a circular wooden table in a brightly lit office, engaged in an active discussion with notebooks and laptops open.](public/images/uploads/govcamp26-168.jpg)
 
 *The full list of session topics and notes, which includes links to a Google Doc with discussion summaries for every session, is available at [ukgovcamp.com/grid](https://ukgovcamp.com/grid)*
-
-
 
 A massive round of applause to every single person who participated! Unconference is a collective effort, and it would be impossible without you. And of course, a huge thank you to the organisers, sponsors and volunteers for making this event so smooth and accessible to everyone.
 
