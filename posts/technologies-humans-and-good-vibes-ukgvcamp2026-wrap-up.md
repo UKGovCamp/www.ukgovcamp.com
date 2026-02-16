@@ -1,5 +1,5 @@
 ---
-title: "Technologies, Humans, and Good Vibes: UKGvCamp2026 Wrap-up"
+title: "Technologies, Humans, and Good Vibes: UKGovCamp2026 Wrap-up"
 date: 2026-02-16T14:31:00.000+00:00
 author: map-name-daisy-wu-pronouns-she-her
 excerpt: UKGovCamp 2026's first event outside of London in Birmingham was a
