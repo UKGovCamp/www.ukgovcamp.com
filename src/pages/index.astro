@@ -8,6 +8,7 @@ import { getCollection } from "astro:content";
 import BirminghamCouncilHouse from "../images/Birmingham_Council_House.jpg";
 import AboutImage from "../images/about-image.jpg";
 import TreesForLifeLogo from "../images/treesforlife.svg";
+import GovCamp26Image from "../images/GovCamp26-060.jpg";
 
 const posts = await getCollection("posts");
 const wordPressPosts = await getCollection("wordpressExport");
@@ -32,16 +33,19 @@ const latestPostUrl =
 
 <BaseLayout title="UK Gov Camp">
     <div class="accent">
-       <h2> We are heading to UKGC2027!</h2>        
-        <p>
+      <p>
+        <Image src={GovCamp26Image} alt="Participants raising their hand to pitch their topics in the opening session of UKGovCamp 2026."/>
+      </p>       
+      <h2> We are heading to UKGC2027!</h2>        
+      <p>
             A massive thank you to every sponsor, volunteer, and participant who joined us on Saturday 17 January 2026 at the <a href="https://maps.app.goo.gl/ADdPNLXfjcfFEnDk7">Birmingham City Council House</a>. Your energy and insights made #ukgc26 an incredible day of collaboration and innovation for the public sector.
-        </p>
-        <p>
+     </p>
+     <p>
             The unconference may be over, but the conversation is just beginning. We are building a vibrant, year-round <a href=“./first-trustee-meeting.md”>community</a> to prepare for UKGC2027 and beyond. Follow us on Slack for regular updates and to connect with peers across the public sector.
-       </p>
-        <p>            
-            <a href=“https://ukgovcamp.slack.com/archives/C03M3PB0A”>Join our Slack Community</a>
-        </p>
+     </p>
+      <p>            
+            <a href=“ukgovcamp.slack.com”>Join our Slack Community</a>
+      </p>
     </div>
 
     <h2>About</h2>
