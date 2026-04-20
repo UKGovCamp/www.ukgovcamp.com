@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - test
   repository_dispatch:
     types: [deploy]
   workflow_dispatch:
@@ -21,8 +22,18 @@ jobs:
         run: npm ci
       - name: Build
         run: npm run build
-      - name: Build & Deploy Worker
+      - name: Deploy production
+        if:
+          github.ref == 'refs/heads/main' || github.event_name ==
+          'repository_dispatch'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      - name: Deploy test
+        if: github.ref == 'refs/heads/test'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy --env test

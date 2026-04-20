@@ -16,6 +16,16 @@
       "custom_domain": true
     }
   ],
-
-  "assets": { "directory": "./dist" }
+  "assets": { "directory": "./dist" },
+  "env": {
+    "test": {
+      "name": "www-ukgovcamp-com-test",
+      "routes": [
+        {
+          "pattern": "test.ukgovcamp.com",
+          "custom_domain": true
+        }
+      ]
+    }
+  }
 }
