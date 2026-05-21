@@ -9,7 +9,7 @@ Hello Govcampers! Since introducing our trustee groups last month, we have been 
 
 ### Forming a Legal Foundation for UKGC
 
-We have agreed to register UKGovCamp as a CIC (Community Interest Company Limited by Guarantee). This provides us with a formal legal structure to better manage activities such as renting venues and issuing grants, all while operating as a dedicated non-profit.
+We have agreed to register UKGovCamp as a CLG (Community Interest Company Limited by Guarantee). This provides us with a formal legal structure to better manage activities such as renting venues and issuing grants, all while operating as a dedicated non-profit.
 
 Our first priority following this decision is to develop a formal AoA (Articles of Association). This ensures the organisation has a solid legal foundation. We are nearly finished with the drafting process and will soon register officially with Companies House. Once that is complete, the document will be available for everyone to view on our website.
 
