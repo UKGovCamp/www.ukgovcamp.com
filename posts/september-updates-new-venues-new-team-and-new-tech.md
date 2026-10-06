@@ -1,5 +1,5 @@
 ---
-title: "September Updates: New Venues, New Team, and New Tech!"
+title: "September Updates: New Venues, New Team, and Tickets Coming Soon!"
 date: 2026-10-06T18:58:00.000+01:00
 author: map-name-daisy-wu-pronouns-she-her
 excerpt: The UKGovCamp organising team has kicked off planning with a fresh
