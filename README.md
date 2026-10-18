@@ -1,5 +1,8 @@
 # UKGovCamp Website
 
+See [HOSTING.md](HOSTING.md) for where this site and the wider UKGovCamp
+infrastructure actually run.
+
 ## Running locally
 
 You can run this website locally to test changes before pushing them up.
