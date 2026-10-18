@@ -2,9 +2,11 @@
 layout: "@/layouts/BaseLayout.astro"
 title: Code of Conduct
 ---
-# UKGovCamp Code of Conduct
 
-**Need to report an incident? Approach an organiser or write to <conduct@ukgovcamp.com>.**
+<h2 class="page-title" id="ukgovcamp-code-of-conduct">UKGovCamp Code of Conduct</h2>
+
+**Need to report an incident? Approach an organiser or write to
+<conduct@ukgovcamp.com>.**
 
 We (the organisers of UKGovCamp) believe that our online spaces, just like our
 physical spaces, should be free from harassment, bullying and hate.
@@ -20,18 +22,18 @@ attendees, organisers, volunteers (referred to as ‘Campmakers’) and sponsors
 
 ## Unacceptable behaviour includes (but is not limited to):
 
-* offensive verbal comments
-* deliberate intimidation, bullying, harassment
-* stalking and/or following
-* violence and/or threats of violence
-* unwelcome sexual attention or physical contact
-* sharing content/links to content which is illegal, pornographic or other
+- offensive verbal comments
+- deliberate intimidation, bullying, harassment
+- stalking and/or following
+- violence and/or threats of violence
+- unwelcome sexual attention or physical contact
+- sharing content/links to content which is illegal, pornographic or other
   inappropriate material
-* sustained disruption of talks/sessions
-* other behaviour deemed inappropriate, offensive, threatening or harmful.
-* unsolicited and/or persistent messaging in private channels (e.g. twitter
+- sustained disruption of talks/sessions
+- other behaviour deemed inappropriate, offensive, threatening or harmful.
+- unsolicited and/or persistent messaging in private channels (e.g. twitter
   direct messages)
-* instigating or encouraging any of the behaviours set out above is also
+- instigating or encouraging any of the behaviours set out above is also
   unacceptable
 
 If a participant engages in behaviour that violates this code of conduct, the
@@ -64,17 +66,24 @@ Your Code of Conduct Support Team of UKGovCamp 2026:
 
 - @ael
 - @ImranH_GDS
-- @Vikki
-(The above are their handles in UKGovCamp's Slack.)
+- @Vikki (The above are their handles in UKGovCamp's Slack.)
 
-The Code of Conduct Support Teaem is responsible to process the Code of Conduct violation reports. The complaint details will only be accessible by the memebers of Code of Conduct Support Team. If the person who is harassing you is on the Code of Conduct Support team, they will remove themselves from handling your case.
+The Code of Conduct Support Teaem is responsible to process the Code of Conduct
+violation reports. The complaint details will only be accessible by the memebers
+of Code of Conduct Support Team. If the person who is harassing you is on the
+Code of Conduct Support team, they will remove themselves from handling your
+case.
 
-We will act as promptly and fairly as we can to resolve the situation. However, due to the limited volunteering capacity, we may only be able to deal with complaints filed withing 2 weeks after the event.
+We will act as promptly and fairly as we can to resolve the situation. However,
+due to the limited volunteering capacity, we may only be able to deal with
+complaints filed withing 2 weeks after the event.
 
 ## Possible actions from the Code of Conduct Support Team:
+
 - Address the problems to people who we want them to change behaviours.
 - Individuals banned from being an organiser, a volunteer or a participant.
-- Organising mechanism improvement for the next time, e.g. review the Code of Conduct.
+- Organising mechanism improvement for the next time, e.g. review the Code of
+  Conduct.
 - If any criminal offences are involved, assist them to log it to the police.
 
 ## Thank you
@@ -84,9 +93,9 @@ inclusive and friendly event for all. We are grateful to the following
 organisers for publishing their code of conduct, which we have used to improve
 ours.
 
-* https://confcodeofconduct.com/
-* [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-* [Úll 2018 Code of Conduct](https://2018.ull.ie/code/)
-* [DotiFest Code of Conduct](https://dotifest.com/Code-of-Conduct)
-* [YouGotThis Conference](https://yougotthis.io/conduct/)
-* [mySociety Code of Conduct](https://www.mysociety.org/code-of-conduct/)
+- https://confcodeofconduct.com/
+- [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
+- [Úll 2018 Code of Conduct](https://2018.ull.ie/code/)
+- [DotiFest Code of Conduct](https://dotifest.com/Code-of-Conduct)
+- [YouGotThis Conference](https://yougotthis.io/conduct/)
+- [mySociety Code of Conduct](https://www.mysociety.org/code-of-conduct/)

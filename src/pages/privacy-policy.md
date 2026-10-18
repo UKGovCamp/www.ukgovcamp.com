@@ -3,7 +3,7 @@ layout: "@/layouts/BaseLayout.astro"
 title: Privacy Policy
 ---
 
-# Privacy Policy
+<h2 class="page-title" id="privacy-policy">Privacy Policy</h2>
 
 We’re an independent organisation that’s run events since 2007.
 

@@ -15,11 +15,12 @@ const { title } = { ...Astro.props, ...frontmatter };
         <BaseHead title={title} />
     </head>
     <body>
+        <a class="skip-link" href="#main-content">Skip to main content</a>
         <header class="width-container">
             <Logo />
             <Nav />
         </header>
-        <main class="width-container"><slot /></main>
+        <main id="main-content" class="width-container"><slot /></main>
         <Footer />
     </body>
 </html>

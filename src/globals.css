@@ -11,6 +11,10 @@
   --accent-bg-color: rgb(61 80 160);
 
   --logo-fg-color: rgb(61 80 160);
+
+  --link-color: rgb(61 80 160);
+  --link-visited-color: rgb(61 80 160);
+  --link-hover-color: rgb(41 56 118);
 }
 
 body {
@@ -63,6 +67,20 @@ main {
   margin-right: auto;
 }
 
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 0;
+  z-index: 100;
+  padding: 10px 16px;
+  background-color: var(--accent-bg-color);
+  color: var(--accent-fg-color);
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
 a {
   color: var(--link-color);
 }
@@ -100,6 +118,12 @@ h2 {
 
 h3 {
   font-size: 1.1875rem;
+}
+
+/* Page content titles are h2 (the page already has one h1, the site logo
+   in the header), but kept at the same visual size h1 would be. */
+.page-title {
+  font-size: 2.25rem;
 }
 
 .logo {
@@ -249,8 +273,21 @@ footer {
   clip-path: inset(0 -100vmax);
 }
 
-footer a:visited {
-  color: var(--footer-fg-color);
+/* Links inside sections with a dark/coloured background would otherwise
+   inherit the new body link colour, which doesn't have enough contrast
+   (or, in .accent's case, is literally invisible) against these
+   backgrounds -- keep them matching their section's own text colour,
+   same as before body links had a defined colour at all. */
+.accent a,
+.accent a:visited,
+.accent a:hover,
+.treesforlife a,
+.treesforlife a:visited,
+.treesforlife a:hover,
+footer a,
+footer a:visited,
+footer a:hover {
+  color: inherit;
 }
 
 .sponsors {

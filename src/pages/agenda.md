@@ -3,7 +3,7 @@ layout: "@/layouts/BaseLayout.astro"
 title: What should I expect from the day?
 ---
 
-# What should I expect from the day?
+<h2 class="page-title" id="what-should-i-expect-from-the-day">What should I expect from the day?</h2>
 
 **Location:**
 [Birmingham City Council House, Victoria Square, Birmingham B1 1BB](https://www.birmingham.gov.uk/directory_record/3599/council_house)

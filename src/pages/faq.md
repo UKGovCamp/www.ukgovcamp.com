@@ -2,7 +2,8 @@
 layout: "@/layouts/BaseLayout.astro"
 title: Frequently asked questions
 ---
-# Frequently asked questions
+
+<h2 class="page-title" id="frequently-asked-questions">Frequently asked questions</h2>
 
 ## Ticketing
 
@@ -10,7 +11,8 @@ title: Frequently asked questions
 
 You can head to Eventbrite > Tickets, and there should be a “cancel order”
 button under your ticket. Simply click the button to cancel your ticket.
-Alternatively, email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
+Alternatively, email
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
 
 ### I didn't receive my ticket yet. What are the next steps?
 
@@ -21,26 +23,30 @@ If you haven’t received your ticket, there are the following possibilities
 3. You are on the waiting list
 
 For 1 and 2, you can check your inbox to make sure you received confirmation
-from us; if not, please email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
+from us; if not, please email
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
 
 ### Can I transfer my ticket to someone else?
 
-Yes, it is possible. Please email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) for the
+Yes, it is possible. Please email
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) for the
 arrangements.
 
 ### Is it possible to bring a friend along?
 
 The venue capacity is tight, so unfortunately, we are not able to accommodate
 people without a valid ticket. If you are bringing along an accompaniment such
-as a carer, we are happy to arrange it. Please email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
+as a carer, we are happy to arrange it. Please email
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
 
 ## General
 
 ### If I have dietary or special requirements, whom do I need to notify?
 
 If you already requested when you registered for a ticket, you do not need to do
-anything. If not, please send an email to [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) listing out
-your requirements before 5 Jan 2026.
+anything. If not, please send an email to
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) listing out your
+requirements before 5 Jan 2026.
 
 ### Who can I contact if I have further information?
 
@@ -50,18 +56,23 @@ Please email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com).
 
 ### Where can I park, and what are the charges?
 
-*For people with accessibility needs:*
+_For people with accessibility needs:_
 
 There is a limited set of accessible car parking spaces that operate on a
-first-come-first-served basis. Please email [organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) with your
-**full name** and **car registration number (number plate)** before **5 Jan
-2026**. Please note that we cannot guarantee a parking space to everyone due to
-limited space.
+first-come-first-served basis. Please email
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) with your **full
+name** and **car registration number (number plate)** before **5 Jan 2026**.
+Please note that we cannot guarantee a parking space to everyone due to limited
+space.
 
-*For people who do not require accessibility arrangements:*
+_For people who do not require accessibility arrangements:_
 
 There is no parking at the venue; however, there are council car parks in the
-area. Please check the [Birmingham City Council Website ](https://www.birmingham.gov.uk/citycentrecarparks)([](https://www.birmingham.gov.uk/citycentrecarparks)[Snow Hill](https://www.birmingham.gov.uk/directory_record/6683/snow_hill_multi-storey_car_park) and [Town Hall](https://www.birmingham.gov.uk/directory_record/6698/town_hall_multi-storey_car_park) are the closest car parks).
+area. Please check the
+[Birmingham City Council Website ](https://www.birmingham.gov.uk/citycentrecarparks)([](https://www.birmingham.gov.uk/citycentrecarparks)[Snow Hill](https://www.birmingham.gov.uk/directory_record/6683/snow_hill_multi-storey_car_park)
+and
+[Town Hall](https://www.birmingham.gov.uk/directory_record/6698/town_hall_multi-storey_car_park)
+are the closest car parks).
 
 ### How far is the venue from the local train stations?
 
@@ -101,14 +112,15 @@ staff to take them for a walk, weather permitting).
 ### Is the venue wheelchair accessible?
 
 Yes, the building is fully wheelchair accessible. Please email
-[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) if you require assistance.
+[organisers@ukgovcamp.com](mailto:organisers@ukgovcamp.com) if you require
+assistance.
 
 ### Is there Wi-Fi available?
 
 Free Wi-Fi will be available on the site, provided by BCC. You may also access
 the GOV Roam Wi-Fi at the venue.
 
-*Brum Free Wi‑Fi (For delegates)*
+_Brum Free Wi‑Fi (For delegates)_
 
 Delegates will use the public Brum Free Wi‑Fi / O2 Wi‑Fi network.
 
@@ -120,10 +132,10 @@ How to connect:
 
 Notes:
 
-* No password required.
-* Public network; speed may vary.
+- No password required.
+- Public network; speed may vary.
 
-*GovRoam (For Public Sector Staff)*
+_GovRoam (For Public Sector Staff)_
 
 How to connect:
 
@@ -132,7 +144,8 @@ How to connect:
 3. Enter your organisation login details.
 4. Accept any security prompts.
 
-*\*Only use this if your home organisation uses GovRoam (common for government and public-sector attendees).*
+_\*Only use this if your home organisation uses GovRoam (common for government
+and public-sector attendees)._
 
 ### If I am unwell on the day, who do I need to notify?
 
