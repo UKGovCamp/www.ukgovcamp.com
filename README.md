@@ -1,7 +1,8 @@
 # UKGovCamp Website
 
 See [HOSTING.md](HOSTING.md) for where this site and the wider UKGovCamp
-infrastructure actually run.
+infrastructure actually run, and [WCAG.md](WCAG.md) for accessibility compliance
+status.
 
 ## Running locally
 
