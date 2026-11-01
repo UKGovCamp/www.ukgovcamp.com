@@ -48,6 +48,26 @@ const latestPostUrl =
       </p>
     </div>
 
+    <h2>Latest news</h2>
+    <h3>
+        <a href={latestPostUrl}>{latestPost.data.title}</a>
+    </h3>
+    {
+        latestPost.collection === "posts" && latestPost.data.excerpt ? (
+            <p>{latestPost.data.excerpt}</p>
+        ) : (
+            ""
+        )
+    }
+    <p>
+        Posted on {latestPost.data.date.toLocaleDateString("en-GB")} by <Author
+            author={latestPostAuthor}
+        />
+    </p>
+    <p>
+        <a href="/news">Read all our news</a>
+    </p>
+
     <h2>About</h2>
     <p>
         Since 2007, <a href="/about">UKGovCamp</a> has been a welcoming and inclusive annual event to enable people working in or with the public sector to come together and try to make things better. It is free, run entirely by volunteers and funded by <a href="/sponsors">sponsors</a>. Unconference topics are set by attendees on the day, and discuss things which are important to them, in the hope of achieving better outcomes for users of public services.

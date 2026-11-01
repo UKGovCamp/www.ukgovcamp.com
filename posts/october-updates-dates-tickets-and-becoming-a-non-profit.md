@@ -1,6 +1,6 @@
 ---
 title: "October Updates: Dates, Tickets, and Becoming a Non-Profit"
-date: 2026-11-01T12:00:00.000+00:00
+date: 2026-11-01T01:24:00.000+00:00
 author: david-durant
 excerpt:
   UKGovCamp 2027 is heading to Manchester in mid-January, with the venue, date
