@@ -11,8 +11,8 @@ form.
 
 UKGovCamp is a space for people to make the public sector better. We do an
 annual unconference, collaborate on Slack and provide grants for other events.
-Our next event is on Saturday 17 January 2026 in Birmingham, the first we have
-run outside London. We need to raise at least £30,000 to cover costs, plus more
+Our next event is on Saturday 16 January 2027 in Manchester, our second time
+outside London. We need to raise at least £30,000 to cover costs, plus more
 if we want to provide a grant fund in 2026. Read more on our
 [about us page](https://www.ukgovcamp.com/about/).
 
@@ -46,7 +46,6 @@ if we want to provide a grant fund in 2026. Read more on our
 - everything in platinum,
 - 30 seconds on stage during the introduction,
 - named sponsor of either:
-  - childcare crèche,
   - attendee bursary,
   - reception the night before,
   - reception after the main event,
