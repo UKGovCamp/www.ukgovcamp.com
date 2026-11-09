@@ -1,9 +1,9 @@
 ---
 import { Image } from "astro:assets";
-const { image, name, title, link } = Astro.props;
+const { image, name, title, link, maxHeight } = Astro.props;
 ---
 
 <div class="sponsor">
-    <a href={link}>{image ? <Image src={image} alt={name} title={name} /> : name}</a>
+    <a href={link}>{image ? <Image src={image} alt={name} title={name} style={maxHeight ? `max-height: ${maxHeight}` : undefined} /> : name}</a>
     {title && <span class="sponsor-title">{title}</span>}
 </div>
