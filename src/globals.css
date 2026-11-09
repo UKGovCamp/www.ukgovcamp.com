@@ -321,6 +321,7 @@ footer a:hover {
   width: 100%;
   max-width: 300px;
   max-height: 200px;
+  object-fit: contain;
 }
 
 .sponsor-title {
