@@ -5,9 +5,7 @@ title: About UK Gov Camp
 
 <h2 class="page-title" id="about-us">About us</h2>
 
-100 of us first met in 2008 at Google's Victoria office. We
-[discussed everything](http://barcamp.org/w/page/401732/BarcampUKGovweb) from
-e-voting, to the politics of FOI and vitual worlds.
+100 of us first met in 2008 at Google's Victoria office. We discussed everything from e-voting, to vitual worlds, and the politics of the Freedom of Information (FOI).
 
 We've met
 [every year since](https://docs.google.com/spreadsheets/d/1S6nemSPxSLrURGigaQZFKViWBoAhalpE2f0RtZ92Fpk/edit?gid=13#gid=13)
