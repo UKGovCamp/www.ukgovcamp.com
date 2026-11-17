@@ -248,6 +248,12 @@ h3 {
   width: auto;
 }
 
+@media (min-width: 1080px) {
+  #footerNav .footer-social {
+    margin-left: -63px;
+  }
+}
+
 #footerNav .footer-social a {
   display: inline-flex;
   align-items: center;
@@ -258,6 +264,11 @@ h3 {
 
 #footerNav .footer-social img {
   display: block;
+}
+
+#footerNav .footer-social-linkedin {
+  background-color: #ffffff;
+  border-radius: 3px;
 }
 
 #footerNav .footer-social-emoji {
