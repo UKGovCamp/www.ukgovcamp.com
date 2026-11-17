@@ -13,7 +13,7 @@ December 2026.
 
 We need your feedback about the following railway travel disruptions (if you
 won’t use the railways, you can ignore this). You'll be asked some questions via
-our ticketing system Luma.
+our ticketing system Luma. Also feel free to contact us via [email](mailto:organisers@ukgovcamp.com?subject=Questions%20about%20railway%20disruptions%20&body=I%20have%20some%20follow-up%20questions%20about%20your%20recent%20news%20article.), [BlueSky](https://bsky.app/profile/ukgovcamp.com), [LinkedIn](https://www.linkedin.com/company/ukgovcamp/) and [Mastodon](https://mastodon.me.uk/@ukgovcamp).
 
 ## Saturday 16 January 2027 (the day of UKGovCamp)
 
