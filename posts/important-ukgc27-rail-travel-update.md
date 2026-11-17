@@ -2,6 +2,7 @@
 title: Important UKGC27 rail travel update
 date: 2026-11-17T12:15:00.000+00:00
 author: map-name-james-cattell-pronouns-he-him
+form: rail-travel
 excerpt:
   Planned railway engineering works will disrupt travel to and from Manchester
   around UKGovCamp on Saturday 16 January 2027. Here's what you need to know.
@@ -12,8 +13,13 @@ Thank you everyone who’s already entered our
 December 2026.
 
 We need your feedback about the following railway travel disruptions (if you
-won’t use the railways, you can ignore this). You'll be asked some questions via
-our ticketing system Luma. Also feel free to contact us via [email](mailto:organisers@ukgovcamp.com?subject=Questions%20about%20railway%20disruptions%20&body=I%20have%20some%20follow-up%20questions%20about%20your%20recent%20news%20article.), [BlueSky](https://bsky.app/profile/ukgovcamp.com), [LinkedIn](https://www.linkedin.com/company/ukgovcamp/) and [Mastodon](https://mastodon.me.uk/@ukgovcamp).
+won’t use the railways, you can ignore this). Please answer the questions in the
+[form at the bottom of this page](#rail-form-heading). Also feel free to contact
+us via
+[email](mailto:organisers@ukgovcamp.com?subject=Questions%20about%20railway%20disruptions%20&body=I%20have%20some%20follow-up%20questions%20about%20your%20recent%20news%20article.),
+[BlueSky](https://bsky.app/profile/ukgovcamp.com),
+[LinkedIn](https://www.linkedin.com/company/ukgovcamp/) and
+[Mastodon](https://mastodon.me.uk/@ukgovcamp).
 
 ## Saturday 16 January 2027 (the day of UKGovCamp)
 

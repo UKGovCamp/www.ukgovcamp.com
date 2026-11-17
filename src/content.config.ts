@@ -39,6 +39,7 @@ const posts = defineCollection({
     date: z.date(),
     author: reference("authors"),
     excerpt: z.string().optional(),
+    form: z.enum(["rail-travel"]).optional(),
   }),
 });
 

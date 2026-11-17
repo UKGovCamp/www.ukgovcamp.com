@@ -2,6 +2,7 @@
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import { getCollection, render } from "astro:content";
 import Author from "@/components/Author.astro";
+import RailTravelForm from "@/components/RailTravelForm.astro";
 import type { InferEntrySchema } from "astro:content";
 
 export async function getStaticPaths() {
@@ -31,4 +32,5 @@ const author = authors[post.data.author.id] || post.data.author.id;
         />
     </p>
     <Content />
+    {post.data.form === "rail-travel" && <RailTravelForm />}
 </BaseLayout>
