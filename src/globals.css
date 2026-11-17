@@ -243,7 +243,7 @@ h3 {
 }
 
 #footerNav .footer-social {
-  margin-left: -4px;
+  margin-left: -2px;
   display: inline-flex;
   vertical-align: middle;
   gap: 8px;
@@ -260,8 +260,8 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 32px;
-  min-height: 32px;
+  min-width: 40px;
+  min-height: 40px;
 }
 
 #footerNav .footer-social img {
@@ -270,12 +270,12 @@ h3 {
 
 #footerNav .footer-social-linkedin {
   background-color: #ffffff;
-  border-radius: 3px;
+  border-radius: 4px;
 }
 
 #footerNav .footer-social-emoji {
-  font-size: 22px;
-  line-height: 24px;
+  font-size: 29px;
+  line-height: 31px;
 }
 
 #footerNav .navigation-active a {
