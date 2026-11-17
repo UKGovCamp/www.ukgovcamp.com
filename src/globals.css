@@ -225,7 +225,7 @@ h3 {
     display: inline-block;
     padding: 0;
     border: 0;
-    width: 15%;
+    margin-right: 32px;
   }
 }
 
@@ -242,6 +242,7 @@ h3 {
 }
 
 #footerNav .footer-social {
+  margin-left: -4px;
   display: inline-flex;
   vertical-align: middle;
   gap: 8px;
@@ -250,7 +251,7 @@ h3 {
 
 @media (min-width: 1080px) {
   #footerNav .footer-social {
-    margin-left: -63px;
+    margin-left: 23px;
   }
 }
 
@@ -302,6 +303,7 @@ h3 {
 
 footer {
   display: block;
+  max-width: 60rem;
   background-color: var(--footer-bg-color);
   color: var(--footer-fg-color);
   box-shadow: 0 0 0 100vmax var(--footer-bg-color);
