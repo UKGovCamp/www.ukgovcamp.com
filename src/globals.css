@@ -241,6 +241,30 @@ h3 {
   text-underline-offset: 5px;
 }
 
+#footerNav .footer-social {
+  display: inline-flex;
+  vertical-align: middle;
+  gap: 8px;
+  width: auto;
+}
+
+#footerNav .footer-social a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 32px;
+  min-height: 32px;
+}
+
+#footerNav .footer-social img {
+  display: block;
+}
+
+#footerNav .footer-social-emoji {
+  font-size: 22px;
+  line-height: 24px;
+}
+
 #footerNav .navigation-active a {
   text-decoration: underline;
   text-decoration-thickness: 3px;
