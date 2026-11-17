@@ -26,6 +26,7 @@ const wordpressExport = defineCollection({
     title: z.string(),
     date: z.date(),
     author: reference("authors"),
+    coverImage: z.string().optional(),
   }),
 });
 

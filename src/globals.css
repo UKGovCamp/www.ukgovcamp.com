@@ -377,3 +377,10 @@ footer a:hover {
 :where([data-astro-image="constrained"]) {
   max-width: 100%;
 }
+
+.cover-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1rem 0;
+}
