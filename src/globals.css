@@ -97,7 +97,6 @@ a:hover {
 header {
   padding: 20px 0;
   background-color: var(--header-bg-color);
-  width: 100%;
   max-width: 60rem;
 }
 
@@ -246,6 +245,7 @@ h3 {
   margin-left: -5px;
   display: inline-flex;
   vertical-align: middle;
+  flex-wrap: wrap;
   gap: 8px;
   width: auto;
 }
