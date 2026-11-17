@@ -13,9 +13,9 @@ Thank you everyone who’s already entered our
 December 2026.
 
 We need your feedback about the following railway travel disruptions (if you
-won’t use the railways, you can ignore this). 
+won’t use the railways, you can ignore this).
 
-### Please answer the questions at the [form at the bottom of this page](#rail-form-heading). 
+> ### Please answer the questions at the [form at the bottom of this page](#rail-form-heading).
 
 Also feel free to contact
 us via
@@ -61,7 +61,7 @@ closed.
 ## Friday 15 January - the day before
 
 - The Transpennine Route and North Wales Coast closures are already active all
-  day on Friday.
+day on Friday.
 - The West Coast Main Line closure between Rugby and Stafford does not begin
   until Saturday, 16 January.
 
