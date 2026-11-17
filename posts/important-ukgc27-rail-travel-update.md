@@ -66,8 +66,8 @@ closed.
 
 ## More information
 
-- [National Rail Journey Planner](https://www.nationalrail.co.uk/)
-- [Avanti West Coast](https://www.avantiwestcoast.co.uk/)
-- [Northern](https://www.northernrailway.co.uk/)
-- [TransPennine Express](https://www.tpexpress.co.uk/)
-- [Transport for Wales](https://tfw.wales/)
+- [National Rail Journey Planner](https://www.nationalrail.co.uk/engineering-works/?date=20270116)
+- [Avanti West Coast](https://www.avantiwestcoast.co.uk/travel-information/disruptions/planned-engineering-works)
+- [Northern](https://www.northernrailway.co.uk/service-updates?tab=planned-disruption)
+- [TransPennine Express](https://www.tpexpress.co.uk/travel-updates/planned-engineering-work?year=2027&month=1)
+- [Transport for Wales](https://tfw.wales/service-status/planned-improvement-works)
