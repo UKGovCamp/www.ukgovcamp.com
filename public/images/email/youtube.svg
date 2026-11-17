@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="YouTube logo">
+  <rect width="512" height="512" rx="72" fill="#FF0000"/>
+  <path d="M199 143c-1-7-7-12-14-12-6 0-10 1-14 3l-3 2c-3 2-5 5-5 8v130c0 4 2 8 6 11l5 3c3 2 7 3 11 3 4 0 8-1 11-3l96-68c5-4 7-10 7-16 0-6-2-12-7-16l-96-68z" fill="#fff"/>
+  <path d="M205 190l75 53-75 53v-106z" fill="#FF0000" opacity="0.15"/>
+</svg>
