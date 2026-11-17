@@ -13,8 +13,11 @@ Thank you everyone who’s already entered our
 December 2026.
 
 We need your feedback about the following railway travel disruptions (if you
-won’t use the railways, you can ignore this). Please answer the questions in the
-[form at the bottom of this page](#rail-form-heading). Also feel free to contact
+won’t use the railways, you can ignore this). 
+
+### Please answer the questions at the [form at the bottom of this page](#rail-form-heading). 
+
+Also feel free to contact
 us via
 [email](mailto:organisers@ukgovcamp.com?subject=Questions%20about%20railway%20disruptions%20&body=I%20have%20some%20follow-up%20questions%20about%20your%20recent%20news%20article.),
 [BlueSky](https://bsky.app/profile/ukgovcamp.com),
