@@ -27,9 +27,6 @@ Manchester Piccadilly are the:
 - 05:58 arriving 09:05,
 - 06:57 arriving 10:05 (we can start late to accommodate).
 
-Both these trains will be very crowded, and advanced booking sites are already
-showing, “Limited availability”.
-
 Other services between London and Manchester may divert, require you change
 trains, or take a bus replacement service.
 
