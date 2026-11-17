@@ -98,6 +98,7 @@ header {
   padding: 20px 0;
   background-color: var(--header-bg-color);
   width: 100%;
+  max-width: 60rem;
 }
 
 header a:visited {
