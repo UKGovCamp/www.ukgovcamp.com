@@ -1,0 +1,267 @@
+---
+// Branching feedback form for the UKGC27 rail travel update post.
+// Answers are sent to a Google Apps Script web app, which adds them to a Google Sheet.
+// Without JavaScript, every question is shown and the form posts directly to the script.
+const ENDPOINT =
+  "https://script.google.com/macros/s/AKfycbz3UdHbF4zkvKFuWWJ0JFxohWArpAaIW3icGAeI2P3LwyqKkX2sUPikLWrQfPpDk3rR/exec";
+---
+
+<section class="rail-form" aria-labelledby="rail-form-heading">
+  <h3 id="rail-form-heading">Tell us how you will travel</h3>
+
+  <form id="rail-travel-form" method="post" action={ENDPOINT} novalidate>
+    <!-- Spam trap: hidden from people, often filled in by bots -->
+    <div class="rail-form__trap" aria-hidden="true">
+      <label for="rf-website">Leave this empty</label>
+      <input type="text" id="rf-website" name="website" tabindex="-1" autocomplete="off" />
+    </div>
+
+    <fieldset data-step="lottery">
+      <legend>1. Have you applied to the lottery for a ticket?</legend>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-lottery-yes" name="lottery" value="Yes" required />
+        <label for="rf-lottery-yes">Yes</label>
+      </div>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-lottery-no" name="lottery" value="No" />
+        <label for="rf-lottery-no">No</label>
+      </div>
+    </fieldset>
+
+    <p class="rail-form__notice" data-step="lottery-no" role="status" hidden>
+      Please <a href="https://luma.com/kwpj3osz">apply to the lottery</a> then come back here.
+    </p>
+
+    <fieldset data-step="arrival">
+      <legend>2. Which day will you arrive in Manchester?</legend>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-arrival-fri" name="arrival_day" value="Friday" required />
+        <label for="rf-arrival-fri">Friday</label>
+      </div>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-arrival-sat" name="arrival_day" value="Saturday" />
+        <label for="rf-arrival-sat">Saturday</label>
+      </div>
+    </fieldset>
+
+    <fieldset data-step="before10">
+      <legend>3. Will you arrive at the venue before 10am?</legend>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-before10-yes" name="before_10am" value="Yes" required />
+        <label for="rf-before10-yes">Yes</label>
+      </div>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-before10-no" name="before_10am" value="No" />
+        <label for="rf-before10-no">No</label>
+      </div>
+    </fieldset>
+
+    <fieldset data-step="financial">
+      <legend>4. Do you need financial help to attend UKGC27?</legend>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-financial-yes" name="financial_help" value="Yes" required />
+        <label for="rf-financial-yes">Yes</label>
+      </div>
+      <div class="rail-form__option">
+        <input type="radio" id="rf-financial-no" name="financial_help" value="No" />
+        <label for="rf-financial-no">No</label>
+      </div>
+    </fieldset>
+
+    <fieldset data-step="help">
+      <div class="rail-form__field">
+        <label for="rf-help">5. Please describe the help you need and approximately how much it will cost</label>
+        <textarea id="rf-help" name="help_details" rows="6" maxlength="5000" required></textarea>
+      </div>
+    </fieldset>
+
+    <fieldset data-step="contact">
+      <div class="rail-form__field">
+        <label for="rf-name">6. What is your name?</label>
+        <input type="text" id="rf-name" name="name" autocomplete="name" maxlength="200" required />
+      </div>
+      <div class="rail-form__field">
+        <label for="rf-email">7. What email did you use for the lottery?</label>
+        <input type="email" id="rf-email" name="email" autocomplete="email" spellcheck="false" maxlength="320" required />
+      </div>
+      <p class="rail-form__error" id="rf-error" role="alert" hidden></p>
+      <button type="submit">Send</button>
+    </fieldset>
+  </form>
+
+  <p class="rail-form__thanks" id="rf-thanks" tabindex="-1" hidden>
+    Thanks for your feedback. Much appreciated
+  </p>
+</section>
+
+<style>
+  .rail-form {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 2px solid var(--accent-bg-color);
+  }
+  .rail-form fieldset {
+    border: 0;
+    padding: 0;
+    margin: 0 0 1.75rem;
+  }
+  .rail-form legend,
+  .rail-form__field label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+  .rail-form__field {
+    margin-bottom: 1.25rem;
+  }
+  .rail-form__option {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .rail-form__option input {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 0;
+    accent-color: var(--accent-bg-color);
+  }
+  .rail-form__option label {
+    padding: 0.25rem 0;
+  }
+  .rail-form input[type="text"],
+  .rail-form input[type="email"],
+  .rail-form textarea {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 30rem;
+    padding: 0.5rem;
+    font: inherit;
+    border: 2px solid var(--fg-color);
+    border-radius: 0;
+  }
+  .rail-form textarea {
+    max-width: 40rem;
+  }
+  .rail-form input:focus-visible,
+  .rail-form textarea:focus-visible,
+  .rail-form button:focus-visible {
+    outline: 3px solid #ffbf47;
+    outline-offset: 0;
+    box-shadow: inset 0 0 0 2px var(--fg-color);
+  }
+  .rail-form button {
+    font: inherit;
+    font-weight: 700;
+    padding: 0.6rem 1.5rem;
+    color: var(--accent-fg-color);
+    background-color: var(--accent-bg-color);
+    border: 0;
+    cursor: pointer;
+  }
+  .rail-form button:hover {
+    background-color: var(--link-hover-color);
+  }
+  .rail-form button[disabled] {
+    opacity: 0.6;
+    cursor: wait;
+  }
+  .rail-form__notice,
+  .rail-form__thanks {
+    font-weight: 700;
+    padding: 1rem;
+    border-left: 5px solid var(--accent-bg-color);
+    background-color: rgb(61 80 160 / 0.08);
+  }
+  .rail-form__error {
+    font-weight: 700;
+    color: rgb(178 34 34);
+  }
+  .rail-form__trap {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+</style>
+
+<script>
+  const form = document.getElementById("rail-travel-form") as HTMLFormElement | null;
+  const thanks = document.getElementById("rf-thanks");
+  const error = document.getElementById("rf-error");
+
+  if (form && thanks && error) {
+    const step = (name: string) =>
+      form.parentElement!.querySelector<HTMLElement>(`[data-step="${name}"]`)!;
+    const value = (name: string) =>
+      (form.elements.namedItem(name) as RadioNodeList | null)?.value ?? "";
+
+    // Show or hide a step. Hidden fieldsets are disabled so they are not
+    // checked or sent.
+    const show = (name: string, visible: boolean) => {
+      const el = step(name);
+      el.hidden = !visible;
+      if (el instanceof HTMLFieldSetElement) el.disabled = !visible;
+    };
+
+    const update = () => {
+      const lottery = value("lottery");
+      const arrival = value("arrival_day");
+      const before10 = value("before_10am");
+      const financial = value("financial_help");
+
+      const showArrival = lottery === "Yes";
+      const showBefore10 = showArrival && arrival === "Saturday";
+      const showFinancial =
+        showArrival && (arrival === "Friday" || (showBefore10 && before10 !== ""));
+      const showHelp = showFinancial && financial === "Yes";
+      const showContact = showFinancial && financial !== "";
+
+      show("lottery-no", lottery === "No");
+      show("arrival", showArrival);
+      show("before10", showBefore10);
+      show("financial", showFinancial);
+      show("help", showHelp);
+      show("contact", showContact);
+    };
+
+    form.addEventListener("change", update);
+    update();
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      error.hidden = true;
+
+      if (!form.checkValidity()) {
+        const firstInvalid = form.querySelector<HTMLElement>(":invalid:not(fieldset)");
+        error.textContent = "Please answer all the questions shown before sending.";
+        error.hidden = false;
+        firstInvalid?.focus();
+        return;
+      }
+
+      const button = form.querySelector("button")!;
+      button.disabled = true;
+      button.textContent = "Sending…";
+
+      try {
+        await fetch(form.action, {
+          method: "POST",
+          mode: "no-cors",
+          body: new URLSearchParams(new FormData(form) as unknown as Record<string, string>),
+        });
+        form.hidden = true;
+        thanks.hidden = false;
+        thanks.focus();
+      } catch {
+        error.textContent =
+          "Sorry, your answers could not be sent. Please check your internet connection and try again.";
+        error.hidden = false;
+        button.disabled = false;
+        button.textContent = "Send";
+      }
+    });
+  }
+</script>
