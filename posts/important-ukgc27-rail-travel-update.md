@@ -15,7 +15,7 @@ December 2026.
 We need your feedback about the following railway travel disruptions (if you
 won’t use the railways, you can ignore this).
 
-> ### Please <span style="background-color: #ccff00; padding: 0.1em 0.25em; border-radius: 0.15em;">[answer the questions at the bottom of this page](#rail-form-heading)</span>.
+### Please <span style="background-color: #ccff00; padding: 0.1em 0.25em; border-radius: 0.15em;">[answer the questions at the bottom of this page](#rail-form-heading)</span>.
 
 Also feel free to contact
 us via
@@ -80,3 +80,6 @@ day on Friday.
 - [Northern](https://www.northernrailway.co.uk/service-updates?tab=planned-disruption)
 - [TransPennine Express](https://www.tpexpress.co.uk/travel-updates/planned-engineering-work?year=2027&month=1)
 - [Transport for Wales](https://tfw.wales/service-status/planned-improvement-works)
+
+Disclaimer: the situations are subjected to change - please visit the operators’ official website for updates.
+
